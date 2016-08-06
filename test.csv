@@ -1,0 +1,6 @@
+id,identifier,species_id,height,weight,base_experience,order,is_default
+1,bulbasaur,1,7,69,64,1,1
+10020,thundurus-therian,642,30,610,261,717,0
+10012,rotom-mow,479,3,3,182,547,0
+10013,castform-sunny,351,3,8,147,420,0
+10021,landorus-therian,645,13,680,270,721,0
