@@ -1,7 +1,7 @@
 Project 1
 =========
 
-### Due Friday, September 16, 2016 - 5:00pm
+### Due Monday, September 19, 2016 - 5:00pm
 
 The goal of this project is to implement a program that maintains a database of different types of Pokemon. You will use the following features:
 
