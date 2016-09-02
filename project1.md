@@ -135,7 +135,7 @@ landorus-therian(13, 680) with experience 270 - Not Starred
 
 ### Submission Requirements
 
-1. For this assignment, you will submit four files: `Pokemon.java`, `Pokedex.java`, `PokemonBuilder.java`, and `PokemonDriver.java`
+1. For this assignment, you will submit four files: `Pokemon.java`, `Pokedex.java`, `PokedexBuilder.java`, and `PokemonDriver.java`
 
 2. Make sure your code follows all requirements in the [Style Guidelines](https://github.com/CS112-F16/notes/blob/master/style.md).
 
