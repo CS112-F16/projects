@@ -88,7 +88,15 @@ The header of the method `removePhotobomb` will look as follows:
 
 The suggested algorithm is as follows:
 
-The method will first create an *array* of `Picture` objects, one for each jpg file found in the directory specified. **You may not assume that there are nine images. If there are more or fewer images your program should still behave as expected.** For full credit you must **consider the case where there are files in the directory that are not jpgs**. That is, the file names do not end with the extension .jpg.
+The method will first create an *array* of `Picture` objects, one for each jpg file found in the directory specified. 
+
+The following code demonstrates how to use a `String` representing a directory to create an array of `File` objects. On a `File` object you can call the method `getName` to retrieve a string representation of the file name. This `String` can then be passed to the `Picture` constructor.
+
+```
+File[] files = (new File(directory)).listFiles();
+```
+
+**You may not assume that there are nine images in the given directory.** If there are more or fewer images your program should still behave as expected. For full credit you must **consider the case where there are files in the directory that are not jpgs**. Hint, as you process the `File` objects disregard any files with name not ending in ".jpg".
 
 The method will also create a new `Picture` that will store the result.
 
@@ -100,13 +108,27 @@ You may create additional methods that implement parts of this functionality. In
 
 ####Zooming
 
-The method `zoomMiddle` will create a new image of the *same* size that is zoomed in to the middle of the original image. If the original image is 4 inches by four inches, the new image will be four inches by four inches but will show only the 2x2 portion from the middle of the original image.
+The method `zoomMiddle` will create a new image of the *same* size that is zoomed in to the middle of the original image. If the original image is 1,000 by 1,000, the new image will be 1,000 by 1,000 but will have an enlarged version of the image from pixel (200,200) to pixel (600,600).
+
+**Your program must work on images of any size.** This means you must dynamically calculate the portion of the image to be enlarged.
+
+To zoom the image, each pixel of the zoomed portion will appear four times.
+
+Consider the simplified example below. The original is an image of four pixels by four pixels. The pixels marked `x` will not be part of the zoomed image, only the pixels marked `a` through `d`.
+
+```
+Original	Zoomed Result
+xxxx		aabb	
+xabx		aabb
+xcdx		ccdd
+xxxx		ccdd
+```
 
 The method header will look as follows:
 
 `public void zoomMiddle(String inputfile, String outputfile)`
 
-
+`inputfile` is the name of the file containing the original image and `outputfile` is the name of the file where the zoomed image will be saved.
 
 ####`ImageDriver`
 
@@ -118,19 +140,16 @@ java ImageDriver images/
 
 The driver will perform the following algorithm:
 
-1. Create an instance of `ImageManipulator`.
-2. 
+1. Verify the command line argument is present and, if not, print an error message and exit the program.
+2. Create an instance of `ImageManipulator`.
+3. Invoke the `removePhotobomb` method passing as input the command line argument and the output filename "nophotobomb.jpg". Make sure you use this *exact* output file name.
+3. Invoke the `zoomMiddle` method passing as input "nophotobomb.jpg" as the input filename and "zoomed.jpg" as the output filename. Make sure to use these *exact* file names.
 
+Verify your solution worked correctly by opening the images in any image viewer!
 
-#### Photobomb Removal
+### Extra Credit
 
-#### Zoom
-
-
-
-
-`ImageManipulator.java` will contin
-
+Students who complete the assignment and demonstrate their solution to the professor during office hours *in advance of the deadline* will be eligible to complete extra credit. All extra credit *must be completed before the October 14, 5pm* deadline. Bring your completed solution to office hours for more information!
 
 ### Submission Requirements
 
