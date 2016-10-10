@@ -108,7 +108,7 @@ You may create additional methods that implement parts of this functionality. In
 
 ####Zooming
 
-The method `zoomMiddle` will create a new image of the *same* size that is zoomed in to the middle of the original image. If the original image is 1,000 by 1,000, the new image will be 1,000 by 1,000 but will have an enlarged version of the image from pixel (200,200) to pixel (600,600).
+The method `zoomMiddle` will create a new image of the *same* size that is zoomed in to the middle of the original image. If the original image is 1,000 by 1,000, the new image will be 1,000 by 1,000 but will have an enlarged version of the image from pixel (250,250) to pixel (750,750).
 
 **Your program must work on images of any size.** This means you must dynamically calculate the portion of the image to be enlarged.
 
