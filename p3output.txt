@@ -1,0 +1,1985 @@
+All Cars:
+Model: CHEVROLET Express 2500 Class: van Pollution Score: 2 MPG: 13 Cylinders: 8
+Model: CHEVROLET Express 2500 Class: van Pollution Score: 2 MPG: 13 Cylinders: 8
+Model: CHEVROLET Express 3500 Class: van Pollution Score: 2 MPG: 12 Cylinders: 8
+Model: CHEVROLET Express 3500 Class: van Pollution Score: 2 MPG: 12 Cylinders: 8
+Model: FORD Transit T150 Class: van Pollution Score: 2 MPG: 16 Cylinders: 6
+Model: FORD Transit T150 Class: van Pollution Score: 2 MPG: 16 Cylinders: 6
+Model: FORD Transit T150 Wagon FFV Class: van Pollution Score: 2 MPG: 11 Cylinders: 6
+Model: FORD Transit T150 Wagon FFV Class: van Pollution Score: 2 MPG: 11 Cylinders: 6
+Model: GMC Savana 2500 Class: van Pollution Score: 2 MPG: 13 Cylinders: 8
+Model: GMC Savana 2500 Class: van Pollution Score: 2 MPG: 13 Cylinders: 8
+Model: GMC Savana 3500 Class: van Pollution Score: 2 MPG: 12 Cylinders: 8
+Model: GMC Savana 3500 Class: van Pollution Score: 2 MPG: 12 Cylinders: 8
+Model: AUDI Q7 Class: standard SUV Pollution Score: 5 MPG: 21 Cylinders: 6
+Model: AUDI R8 Class: small car Pollution Score: 5 MPG: 17 Cylinders: 10
+Model: AUDI R8 Class: small car Pollution Score: 5 MPG: 17 Cylinders: 10
+Model: AUDI R8 Spyder Class: small car Pollution Score: 5 MPG: 17 Cylinders: 10
+Model: AUDI R8 Spyder Class: small car Pollution Score: 5 MPG: 17 Cylinders: 10
+Model: BENTLEY Continental GT Class: small car Pollution Score: 5 MPG: 15 Cylinders: 12
+Model: BENTLEY Continental GT Class: small car Pollution Score: 5 MPG: 15 Cylinders: 12
+Model: BENTLEY Continental GT Convertible Class: small car Pollution Score: 5 MPG: 15 Cylinders: 12
+Model: BENTLEY Continental GT Convertible Class: small car Pollution Score: 5 MPG: 15 Cylinders: 12
+Model: BENTLEY Flying Spur Class: midsize car Pollution Score: 5 MPG: 15 Cylinders: 12
+Model: BENTLEY Flying Spur Class: midsize car Pollution Score: 5 MPG: 15 Cylinders: 12
+Model: BENTLEY Mulsanne Class: midsize car Pollution Score: 5 MPG: 14 Cylinders: 8
+Model: BENTLEY Mulsanne Class: midsize car Pollution Score: 5 MPG: 14 Cylinders: 8
+Model: BMW M6 Convertible Class: small car Pollution Score: 5 MPG: 17 Cylinders: 8
+Model: BMW M6 Convertible Class: small car Pollution Score: 5 MPG: 16 Cylinders: 8
+Model: BMW M6 Coupe Class: small car Pollution Score: 5 MPG: 17 Cylinders: 8
+Model: BMW M6 Coupe Class: small car Pollution Score: 5 MPG: 16 Cylinders: 8
+Model: BMW M6 Gran Coupe Class: small car Pollution Score: 5 MPG: 17 Cylinders: 8
+Model: BMW M6 Gran Coupe Class: small car Pollution Score: 5 MPG: 16 Cylinders: 8
+Model: BMW X5 M Class: standard SUV Pollution Score: 5 MPG: 16 Cylinders: 8
+Model: BMW X5 xDrive40e Class: standard SUV Pollution Score: 5 MPG: 24 Cylinders: 4
+Model: BMW X6 M Class: standard SUV Pollution Score: 5 MPG: 16 Cylinders: 8
+Model: BUICK Enclave Class: standard SUV Pollution Score: 5 MPG: 17 Cylinders: 6
+Model: BUICK Enclave Class: standard SUV Pollution Score: 5 MPG: 18 Cylinders: 6
+Model: CADILLAC CTS-V Class: midsize car Pollution Score: 5 MPG: 17 Cylinders: 8
+Model: CADILLAC CTS-V Class: midsize car Pollution Score: 5 MPG: 17 Cylinders: 8
+Model: CADILLAC Escalade Class: standard SUV Pollution Score: 5 MPG: 17 Cylinders: 8
+Model: CADILLAC Escalade Class: standard SUV Pollution Score: 5 MPG: 17 Cylinders: 8
+Model: CADILLAC XT5 Class: small SUV Pollution Score: 5 MPG: 21 Cylinders: 6
+Model: CADILLAC XT5 Class: small SUV Pollution Score: 5 MPG: 22 Cylinders: 6
+Model: CHEVROLET Camaro Class: small car Pollution Score: 5 MPG: 20 Cylinders: 8
+Model: CHEVROLET Camaro Class: small car Pollution Score: 5 MPG: 20 Cylinders: 8
+Model: CHEVROLET Camaro Class: small car Pollution Score: 5 MPG: 19 Cylinders: 8
+Model: CHEVROLET Camaro Class: small car Pollution Score: 5 MPG: 19 Cylinders: 8
+Model: CHEVROLET Corvette Class: small car Pollution Score: 5 MPG: 19 Cylinders: 8
+Model: CHEVROLET Corvette Class: small car Pollution Score: 5 MPG: 16 Cylinders: 8
+Model: CHEVROLET Corvette Class: small car Pollution Score: 5 MPG: 19 Cylinders: 8
+Model: CHEVROLET Corvette Class: small car Pollution Score: 5 MPG: 16 Cylinders: 8
+Model: CHEVROLET Corvette Class: small car Pollution Score: 5 MPG: 19 Cylinders: 8
+Model: CHEVROLET Corvette Class: small car Pollution Score: 5 MPG: 18 Cylinders: 8
+Model: CHEVROLET Corvette Class: small car Pollution Score: 5 MPG: 19 Cylinders: 8
+Model: CHEVROLET Corvette Class: small car Pollution Score: 5 MPG: 18 Cylinders: 8
+Model: CHEVROLET SS Class: large car Pollution Score: 5 MPG: 16 Cylinders: 8
+Model: CHEVROLET SS Class: large car Pollution Score: 5 MPG: 16 Cylinders: 8
+Model: CHEVROLET SS Class: large car Pollution Score: 5 MPG: 17 Cylinders: 8
+Model: CHEVROLET SS Class: large car Pollution Score: 5 MPG: 17 Cylinders: 8
+Model: CHEVROLET Silverado 15 Class: pickup Pollution Score: 5 MPG: 17 Cylinders: 8
+Model: CHEVROLET Silverado 15 Class: pickup Pollution Score: 5 MPG: 17 Cylinders: 8
+Model: CHEVROLET Silverado 15 Class: pickup Pollution Score: 5 MPG: 17 Cylinders: 8
+Model: CHEVROLET Silverado 15 Class: pickup Pollution Score: 5 MPG: 18 Cylinders: 8
+Model: CHEVROLET Silverado 15 Class: pickup Pollution Score: 5 MPG: 20 Cylinders: 8
+Model: CHEVROLET Silverado 15 Class: special purpose Pollution Score: 5 MPG: 17 Cylinders: 8
+Model: CHEVROLET Silverado 15 Class: pickup Pollution Score: 5 MPG: 18 Cylinders: 8
+Model: CHEVROLET Silverado 15 Class: pickup Pollution Score: 5 MPG: 13 Cylinders: 8
+Model: CHEVROLET Silverado 15 Class: special purpose Pollution Score: 5 MPG: 17 Cylinders: 8
+Model: CHEVROLET Silverado 15 Class: pickup Pollution Score: 5 MPG: 19 Cylinders: 8
+Model: CHEVROLET Silverado 15 Class: pickup Pollution Score: 5 MPG: 14 Cylinders: 8
+Model: CHEVROLET Suburban 1500 Class: standard SUV Pollution Score: 5 MPG: 18 Cylinders: 8
+Model: CHEVROLET Suburban 1500 Class: standard SUV Pollution Score: 5 MPG: 12 Cylinders: 8
+Model: CHEVROLET Suburban 1500 Class: standard SUV Pollution Score: 5 MPG: 19 Cylinders: 8
+Model: CHEVROLET Suburban 1500 Class: standard SUV Pollution Score: 5 MPG: 14 Cylinders: 8
+Model: CHEVROLET Tahoe 1500 Class: standard SUV Pollution Score: 5 MPG: 18 Cylinders: 8
+Model: CHEVROLET Tahoe 1500 Class: standard SUV Pollution Score: 5 MPG: 13 Cylinders: 8
+Model: CHEVROLET Tahoe 1500 Class: standard SUV Pollution Score: 5 MPG: 19 Cylinders: 8
+Model: CHEVROLET Tahoe 1500 Class: standard SUV Pollution Score: 5 MPG: 14 Cylinders: 8
+Model: CHEVROLET Traverse Class: standard SUV Pollution Score: 5 MPG: 17 Cylinders: 6
+Model: CHEVROLET Traverse Class: standard SUV Pollution Score: 5 MPG: 18 Cylinders: 6
+Model: DODGE Viper Class: small car Pollution Score: 5 MPG: 14 Cylinders: 10
+Model: DODGE Viper Class: small car Pollution Score: 5 MPG: 14 Cylinders: 10
+Model: FORD Expedition Class: standard SUV Pollution Score: 5 MPG: 17 Cylinders: 6
+Model: FORD Expedition Class: standard SUV Pollution Score: 5 MPG: 18 Cylinders: 6
+Model: FORD Expedition EL Class: standard SUV Pollution Score: 5 MPG: 16 Cylinders: 6
+Model: FORD Expedition EL Class: standard SUV Pollution Score: 5 MPG: 17 Cylinders: 6
+Model: FORD Explorer Class: standard SUV Pollution Score: 5 MPG: 19 Cylinders: 6
+Model: FORD Explorer Class: standard SUV Pollution Score: 5 MPG: 20 Cylinders: 6
+Model: FORD Explorer FFV Class: standard SUV Pollution Score: 5 MPG: 14 Cylinders: 6
+Model: FORD Explorer FFV Class: standard SUV Pollution Score: 5 MPG: 15 Cylinders: 6
+Model: GMC Acadia Class: standard SUV Pollution Score: 5 MPG: 20 Cylinders: 6
+Model: GMC Acadia Class: standard SUV Pollution Score: 5 MPG: 21 Cylinders: 6
+Model: GMC Acadia Limited Class: standard SUV Pollution Score: 5 MPG: 17 Cylinders: 6
+Model: GMC Acadia Limited Class: standard SUV Pollution Score: 5 MPG: 18 Cylinders: 6
+Model: GMC Sierra 15 Class: pickup Pollution Score: 5 MPG: 17 Cylinders: 8
+Model: GMC Sierra 15 Class: pickup Pollution Score: 5 MPG: 17 Cylinders: 8
+Model: GMC Sierra 15 Class: pickup Pollution Score: 5 MPG: 17 Cylinders: 8
+Model: GMC Sierra 15 Class: pickup Pollution Score: 5 MPG: 18 Cylinders: 8
+Model: GMC Sierra 15 Class: pickup Pollution Score: 5 MPG: 20 Cylinders: 8
+Model: GMC Sierra 15 Class: special purpose Pollution Score: 5 MPG: 17 Cylinders: 8
+Model: GMC Sierra 15 Class: pickup Pollution Score: 5 MPG: 18 Cylinders: 8
+Model: GMC Sierra 15 Class: pickup Pollution Score: 5 MPG: 13 Cylinders: 8
+Model: GMC Sierra 15 Class: special purpose Pollution Score: 5 MPG: 17 Cylinders: 8
+Model: GMC Sierra 15 Class: pickup Pollution Score: 5 MPG: 19 Cylinders: 8
+Model: GMC Sierra 15 Class: pickup Pollution Score: 5 MPG: 14 Cylinders: 8
+Model: GMC Yukon 1500 Class: standard SUV Pollution Score: 5 MPG: 17 Cylinders: 8
+Model: GMC Yukon 1500 Class: standard SUV Pollution Score: 5 MPG: 17 Cylinders: 8
+Model: GMC Yukon 1500 Class: standard SUV Pollution Score: 5 MPG: 18 Cylinders: 8
+Model: GMC Yukon 1500 Class: standard SUV Pollution Score: 5 MPG: 13 Cylinders: 8
+Model: GMC Yukon 1500 Class: standard SUV Pollution Score: 5 MPG: 19 Cylinders: 8
+Model: GMC Yukon 1500 Class: standard SUV Pollution Score: 5 MPG: 14 Cylinders: 8
+Model: GMC Yukon 1500 XL Class: standard SUV Pollution Score: 5 MPG: 17 Cylinders: 8
+Model: GMC Yukon 1500 XL Class: standard SUV Pollution Score: 5 MPG: 19 Cylinders: 8
+Model: GMC Yukon 1500 XL Class: standard SUV Pollution Score: 5 MPG: 14 Cylinders: 8
+Model: GMC Yukon XL 1500 Class: standard SUV Pollution Score: 5 MPG: 16 Cylinders: 8
+Model: GMC Yukon XL 1500 Class: standard SUV Pollution Score: 5 MPG: 18 Cylinders: 8
+Model: GMC Yukon XL 1500 Class: standard SUV Pollution Score: 5 MPG: 12 Cylinders: 8
+Model: JAGUAR XE Class: small car Pollution Score: 5 MPG: 34 Cylinders: 4
+Model: JAGUAR XE Class: small car Pollution Score: 5 MPG: 34 Cylinders: 4
+Model: JAGUAR XE Class: small car Pollution Score: 5 MPG: 36 Cylinders: 4
+Model: JAGUAR XE Class: small car Pollution Score: 5 MPG: 36 Cylinders: 4
+Model: JAGUAR XF Class: midsize car Pollution Score: 5 MPG: 34 Cylinders: 4
+Model: JAGUAR XF Class: midsize car Pollution Score: 5 MPG: 34 Cylinders: 4
+Model: JAGUAR XF Class: midsize car Pollution Score: 5 MPG: 35 Cylinders: 4
+Model: JAGUAR XF Class: midsize car Pollution Score: 5 MPG: 35 Cylinders: 4
+Model: JEEP Cherokee Trailhawk Class: small SUV Pollution Score: 5 MPG: 22 Cylinders: 4
+Model: JEEP Cherokee Trailhawk Class: small SUV Pollution Score: 5 MPG: 22 Cylinders: 4
+Model: JEEP Compass Class: small SUV Pollution Score: 5 MPG: 24 Cylinders: 4
+Model: JEEP Compass Class: small SUV Pollution Score: 5 MPG: 24 Cylinders: 4
+Model: JEEP Compass Class: small SUV Pollution Score: 5 MPG: 25 Cylinders: 4
+Model: JEEP Compass Class: small SUV Pollution Score: 5 MPG: 25 Cylinders: 4
+Model: JEEP Compass Class: small SUV Pollution Score: 5 MPG: 25 Cylinders: 4
+Model: JEEP Compass Class: small SUV Pollution Score: 5 MPG: 25 Cylinders: 4
+Model: JEEP Grand Cherokee SRT Class: standard SUV Pollution Score: 5 MPG: 15 Cylinders: 8
+Model: JEEP Grand Cherokee SRT Class: standard SUV Pollution Score: 5 MPG: 15 Cylinders: 8
+Model: JEEP Patriot Class: small SUV Pollution Score: 5 MPG: 24 Cylinders: 4
+Model: JEEP Patriot Class: small SUV Pollution Score: 5 MPG: 24 Cylinders: 4
+Model: JEEP Patriot Class: small SUV Pollution Score: 5 MPG: 25 Cylinders: 4
+Model: JEEP Patriot Class: small SUV Pollution Score: 5 MPG: 25 Cylinders: 4
+Model: JEEP Patriot Class: small SUV Pollution Score: 5 MPG: 25 Cylinders: 4
+Model: JEEP Patriot Class: small SUV Pollution Score: 5 MPG: 25 Cylinders: 4
+Model: LAMBORGHINI Aventador Coupe Class: small car Pollution Score: 5 MPG: 13 Cylinders: 12
+Model: LAMBORGHINI Aventador Coupe Class: small car Pollution Score: 5 MPG: 13 Cylinders: 12
+Model: LAMBORGHINI Aventador Roadster Class: small car Pollution Score: 5 MPG: 13 Cylinders: 12
+Model: LAMBORGHINI Aventador Roadster Class: small car Pollution Score: 5 MPG: 13 Cylinders: 12
+Model: LAMBORGHINI Huracan Class: small car Pollution Score: 5 MPG: 17 Cylinders: 10
+Model: LAMBORGHINI Huracan Class: small car Pollution Score: 5 MPG: 17 Cylinders: 10
+Model: LAMBORGHINI Huracan Class: small car Pollution Score: 5 MPG: 17 Cylinders: 10
+Model: LAMBORGHINI Huracan Class: small car Pollution Score: 5 MPG: 17 Cylinders: 10
+Model: LAMBORGHINI Huracan Spyder Class: small car Pollution Score: 5 MPG: 16 Cylinders: 10
+Model: LAMBORGHINI Huracan Spyder Class: small car Pollution Score: 5 MPG: 16 Cylinders: 10
+Model: LAMBORGHINI Huracan Spyder Class: small car Pollution Score: 5 MPG: 16 Cylinders: 10
+Model: LAMBORGHINI Huracan Spyder Class: small car Pollution Score: 5 MPG: 16 Cylinders: 10
+Model: LEXUS LX 570 Class: standard SUV Pollution Score: 5 MPG: 15 Cylinders: 8
+Model: LINCOLN Navigator Class: standard SUV Pollution Score: 5 MPG: 17 Cylinders: 6
+Model: LINCOLN Navigator Class: standard SUV Pollution Score: 5 MPG: 17 Cylinders: 6
+Model: LINCOLN Navigator L Class: standard SUV Pollution Score: 5 MPG: 16 Cylinders: 6
+Model: LINCOLN Navigator L Class: standard SUV Pollution Score: 5 MPG: 17 Cylinders: 6
+Model: LOTUS Evora Class: small car Pollution Score: 5 MPG: 20 Cylinders: 6
+Model: LOTUS Evora Class: small car Pollution Score: 5 MPG: 20 Cylinders: 6
+Model: LOTUS Evora Class: small car Pollution Score: 5 MPG: 19 Cylinders: 6
+Model: LOTUS Evora Class: small car Pollution Score: 5 MPG: 19 Cylinders: 6
+Model: MASERATI Ghibli Class: midsize car Pollution Score: 5 MPG: 19 Cylinders: 6
+Model: MASERATI Ghibli S Class: midsize car Pollution Score: 5 MPG: 19 Cylinders: 6
+Model: MASERATI Ghibli S Q4 Class: midsize car Pollution Score: 5 MPG: 19 Cylinders: 6
+Model: MASERATI Granturismo Class: small car Pollution Score: 5 MPG: 16 Cylinders: 8
+Model: MASERATI Granturismo Convertible Class: small car Pollution Score: 5 MPG: 15 Cylinders: 8
+Model: MASERATI Levante Class: standard SUV Pollution Score: 5 MPG: 16 Cylinders: 8
+Model: MASERATI Levante Class: standard SUV Pollution Score: 5 MPG: 16 Cylinders: 8
+Model: MASERATI Levante S Class: standard SUV Pollution Score: 5 MPG: 16 Cylinders: 8
+Model: MASERATI Levante S Class: standard SUV Pollution Score: 5 MPG: 16 Cylinders: 8
+Model: MASERATI Quattroporte GTS Class: large car Pollution Score: 5 MPG: 17 Cylinders: 8
+Model: MASERATI Quattroporte S Class: large car Pollution Score: 5 MPG: 18 Cylinders: 6
+Model: MASERATI Quattroporte S Q4 Class: large car Pollution Score: 5 MPG: 18 Cylinders: 6
+Model: MERCEDES-BENZ AMG CLS63 4Matic Class: small car Pollution Score: 5 MPG: 18 Cylinders: 8
+Model: MERCEDES-BENZ AMG GLE 43 4Matic Class: standard SUV Pollution Score: 5 MPG: 20 Cylinders: 6
+Model: MERCEDES-BENZ AMG GLE63 Class: standard SUV Pollution Score: 5 MPG: 15 Cylinders: 8
+Model: MERCEDES-BENZ AMG GLE63 S Class: standard SUV Pollution Score: 5 MPG: 15 Cylinders: 8
+Model: MERCEDES-BENZ AMG GLE63 S Class: standard SUV Pollution Score: 5 MPG: 15 Cylinders: 8
+Model: MERCEDES-BENZ AMG GLS63 Class: standard SUV Pollution Score: 5 MPG: 14 Cylinders: 8
+Model: MERCEDES-BENZ AMG S63 4Matic Class: small car Pollution Score: 5 MPG: 18 Cylinders: 8
+Model: MERCEDES-BENZ AMG S63 4Matic Class: large car Pollution Score: 5 MPG: 18 Cylinders: 8
+Model: MERCEDES-BENZ AMG S63 4Matic Convertible Class: small car Pollution Score: 5 MPG: 17 Cylinders: 8
+Model: MERCEDES-BENZ AMG SL63 Class: small car Pollution Score: 5 MPG: 19 Cylinders: 8
+Model: MERCEDES-BENZ CLS550 Class: small car Pollution Score: 5 MPG: 21 Cylinders: 8
+Model: MERCEDES-BENZ CLS550 4Matic Class: small car Pollution Score: 5 MPG: 20 Cylinders: 8
+Model: MERCEDES-BENZ E400 Class: small car Pollution Score: 5 MPG: 23 Cylinders: 6
+Model: MERCEDES-BENZ E400 4Matic Class: small car Pollution Score: 5 MPG: 23 Cylinders: 6
+Model: MERCEDES-BENZ E400 Convertible Class: small car Pollution Score: 5 MPG: 23 Cylinders: 6
+Model: MERCEDES-BENZ E550 Class: small car Pollution Score: 5 MPG: 21 Cylinders: 8
+Model: MERCEDES-BENZ E550 Convertible Class: small car Pollution Score: 5 MPG: 20 Cylinders: 8
+Model: MERCEDES-BENZ GLE350 Class: standard SUV Pollution Score: 5 MPG: 20 Cylinders: 6
+Model: MERCEDES-BENZ GLE350 4Matic Class: standard SUV Pollution Score: 5 MPG: 19 Cylinders: 6
+Model: MERCEDES-BENZ GLE350 4Matic Class: standard SUV Pollution Score: 5 MPG: 14 Cylinders: 6
+Model: MERCEDES-BENZ GLE400 4Matic Class: standard SUV Pollution Score: 5 MPG: 20 Cylinders: 6
+Model: MERCEDES-BENZ GLS450 4Matic Class: standard SUV Pollution Score: 5 MPG: 19 Cylinders: 6
+Model: MERCEDES-BENZ GLS550 4Matic Class: standard SUV Pollution Score: 5 MPG: 16 Cylinders: 8
+Model: MERCEDES-BENZ S550 Class: small car Pollution Score: 5 MPG: 20 Cylinders: 8
+Model: MERCEDES-BENZ S550 Class: large car Pollution Score: 5 MPG: 20 Cylinders: 8
+Model: MERCEDES-BENZ S550 4Matic Class: small car Pollution Score: 5 MPG: 20 Cylinders: 8
+Model: MERCEDES-BENZ S550 4Matic Class: large car Pollution Score: 5 MPG: 20 Cylinders: 8
+Model: MERCEDES-BENZ SL450 Class: small car Pollution Score: 5 MPG: 23 Cylinders: 6
+Model: MERCEDES-BENZ SL550 Class: small car Pollution Score: 5 MPG: 20 Cylinders: 8
+Model: MITSUBISHI Lancer Class: small car Pollution Score: 5 MPG: 26 Cylinders: 4
+Model: MITSUBISHI Lancer Class: small car Pollution Score: 5 MPG: 26 Cylinders: 4
+Model: MITSUBISHI Lancer Class: small car Pollution Score: 5 MPG: 30 Cylinders: 4
+Model: MITSUBISHI Lancer Class: small car Pollution Score: 5 MPG: 30 Cylinders: 4
+Model: MITSUBISHI Lancer Class: small car Pollution Score: 5 MPG: 28 Cylinders: 4
+Model: MITSUBISHI Lancer Class: small car Pollution Score: 5 MPG: 28 Cylinders: 4
+Model: PORSCHE 911 Carrera Class: small car Pollution Score: 5 MPG: 23 Cylinders: 6
+Model: PORSCHE 911 Carrera Class: small car Pollution Score: 5 MPG: 23 Cylinders: 6
+Model: PORSCHE 911 Carrera Class: small car Pollution Score: 5 MPG: 25 Cylinders: 6
+Model: PORSCHE 911 Carrera Class: small car Pollution Score: 5 MPG: 25 Cylinders: 6
+Model: PORSCHE 911 Carrera 4 Class: small car Pollution Score: 5 MPG: 23 Cylinders: 6
+Model: PORSCHE 911 Carrera 4 Class: small car Pollution Score: 5 MPG: 23 Cylinders: 6
+Model: PORSCHE 911 Carrera 4 Class: small car Pollution Score: 5 MPG: 24 Cylinders: 6
+Model: PORSCHE 911 Carrera 4 Class: small car Pollution Score: 5 MPG: 24 Cylinders: 6
+Model: PORSCHE 911 Carrera 4 Cabriolet Class: small car Pollution Score: 5 MPG: 22 Cylinders: 6
+Model: PORSCHE 911 Carrera 4 Cabriolet Class: small car Pollution Score: 5 MPG: 22 Cylinders: 6
+Model: PORSCHE 911 Carrera 4 Cabriolet Class: small car Pollution Score: 5 MPG: 24 Cylinders: 6
+Model: PORSCHE 911 Carrera 4 Cabriolet Class: small car Pollution Score: 5 MPG: 24 Cylinders: 6
+Model: PORSCHE 911 Carrera 4S Class: small car Pollution Score: 5 MPG: 23 Cylinders: 6
+Model: PORSCHE 911 Carrera 4S Class: small car Pollution Score: 5 MPG: 23 Cylinders: 6
+Model: PORSCHE 911 Carrera 4S Class: small car Pollution Score: 5 MPG: 24 Cylinders: 6
+Model: PORSCHE 911 Carrera 4S Class: small car Pollution Score: 5 MPG: 24 Cylinders: 6
+Model: PORSCHE 911 Carrera 4S Cabriolet Class: small car Pollution Score: 5 MPG: 22 Cylinders: 6
+Model: PORSCHE 911 Carrera 4S Cabriolet Class: small car Pollution Score: 5 MPG: 22 Cylinders: 6
+Model: PORSCHE 911 Carrera 4S Cabriolet Class: small car Pollution Score: 5 MPG: 24 Cylinders: 6
+Model: PORSCHE 911 Carrera 4S Cabriolet Class: small car Pollution Score: 5 MPG: 24 Cylinders: 6
+Model: PORSCHE 911 Carrera Cabriolet Class: small car Pollution Score: 5 MPG: 23 Cylinders: 6
+Model: PORSCHE 911 Carrera Cabriolet Class: small car Pollution Score: 5 MPG: 23 Cylinders: 6
+Model: PORSCHE 911 Carrera Cabriolet Class: small car Pollution Score: 5 MPG: 24 Cylinders: 6
+Model: PORSCHE 911 Carrera Cabriolet Class: small car Pollution Score: 5 MPG: 24 Cylinders: 6
+Model: PORSCHE 911 Carrera S Class: small car Pollution Score: 5 MPG: 23 Cylinders: 6
+Model: PORSCHE 911 Carrera S Class: small car Pollution Score: 5 MPG: 23 Cylinders: 6
+Model: PORSCHE 911 Carrera S Class: small car Pollution Score: 5 MPG: 24 Cylinders: 6
+Model: PORSCHE 911 Carrera S Class: small car Pollution Score: 5 MPG: 24 Cylinders: 6
+Model: PORSCHE 911 Carrera S Cabriolet Class: small car Pollution Score: 5 MPG: 23 Cylinders: 6
+Model: PORSCHE 911 Carrera S Cabriolet Class: small car Pollution Score: 5 MPG: 23 Cylinders: 6
+Model: PORSCHE 911 Carrera S Cabriolet Class: small car Pollution Score: 5 MPG: 24 Cylinders: 6
+Model: PORSCHE 911 Carrera S Cabriolet Class: small car Pollution Score: 5 MPG: 24 Cylinders: 6
+Model: PORSCHE 911 Targa 4 Class: small car Pollution Score: 5 MPG: 22 Cylinders: 6
+Model: PORSCHE 911 Targa 4 Class: small car Pollution Score: 5 MPG: 22 Cylinders: 6
+Model: PORSCHE 911 Targa 4 Class: small car Pollution Score: 5 MPG: 24 Cylinders: 6
+Model: PORSCHE 911 Targa 4 Class: small car Pollution Score: 5 MPG: 24 Cylinders: 6
+Model: PORSCHE 911 Targa 4S Class: small car Pollution Score: 5 MPG: 22 Cylinders: 6
+Model: PORSCHE 911 Targa 4S Class: small car Pollution Score: 5 MPG: 22 Cylinders: 6
+Model: PORSCHE 911 Targa 4S Class: small car Pollution Score: 5 MPG: 24 Cylinders: 6
+Model: PORSCHE 911 Targa 4S Class: small car Pollution Score: 5 MPG: 24 Cylinders: 6
+Model: PORSCHE 911 Turbo Class: small car Pollution Score: 5 MPG: 21 Cylinders: 6
+Model: PORSCHE 911 Turbo Class: small car Pollution Score: 5 MPG: 21 Cylinders: 6
+Model: PORSCHE 911 Turbo Cabriolet Class: small car Pollution Score: 5 MPG: 21 Cylinders: 6
+Model: PORSCHE 911 Turbo Cabriolet Class: small car Pollution Score: 5 MPG: 21 Cylinders: 6
+Model: PORSCHE 911 Turbo S Class: small car Pollution Score: 5 MPG: 21 Cylinders: 6
+Model: PORSCHE 911 Turbo S Class: small car Pollution Score: 5 MPG: 21 Cylinders: 6
+Model: PORSCHE 911 Turbo S Cabriolet Class: small car Pollution Score: 5 MPG: 21 Cylinders: 6
+Model: PORSCHE 911 Turbo S Cabriolet Class: small car Pollution Score: 5 MPG: 21 Cylinders: 6
+Model: PORSCHE Cayenne Class: standard SUV Pollution Score: 5 MPG: 20 Cylinders: 6
+Model: PORSCHE Cayenne Platinum Class: standard SUV Pollution Score: 5 MPG: 19 Cylinders: 6
+Model: PORSCHE Cayenne S e-Hybrid Class: standard SUV Pollution Score: 5 MPG: 22 Cylinders: 6
+Model: PORSCHE Cayenne Turbo Class: standard SUV Pollution Score: 5 MPG: 17 Cylinders: 8
+Model: PORSCHE Cayenne Turbo Class: standard SUV Pollution Score: 5 MPG: 17 Cylinders: 8
+Model: PORSCHE Cayenne Turbo S Class: standard SUV Pollution Score: 5 MPG: 17 Cylinders: 8
+Model: PORSCHE Cayenne Turbo S Class: standard SUV Pollution Score: 5 MPG: 17 Cylinders: 8
+Model: PORSCHE Macan Turbo Class: small SUV Pollution Score: 5 MPG: 19 Cylinders: 6
+Model: PORSCHE Macan Turbo Class: small SUV Pollution Score: 5 MPG: 19 Cylinders: 6
+Model: ROLLS-ROYCE Phantom Class: large car Pollution Score: 5 MPG: 14 Cylinders: 12
+Model: ROLLS-ROYCE Phantom Class: large car Pollution Score: 5 MPG: 14 Cylinders: 12
+Model: ROLLS-ROYCE Phantom Coupe Class: small car Pollution Score: 5 MPG: 14 Cylinders: 12
+Model: ROLLS-ROYCE Phantom Coupe Class: small car Pollution Score: 5 MPG: 14 Cylinders: 12
+Model: ROLLS-ROYCE Phantom Drophead Coupe Class: small car Pollution Score: 5 MPG: 14 Cylinders: 12
+Model: ROLLS-ROYCE Phantom Drophead Coupe Class: small car Pollution Score: 5 MPG: 14 Cylinders: 12
+Model: ROLLS-ROYCE Phantom EWB Class: large car Pollution Score: 5 MPG: 14 Cylinders: 12
+Model: ROLLS-ROYCE Phantom EWB Class: large car Pollution Score: 5 MPG: 14 Cylinders: 12
+Model: SUBARU BRZ Class: small car Pollution Score: 5 MPG: 27 Cylinders: 4
+Model: SUBARU BRZ Class: small car Pollution Score: 5 MPG: 27 Cylinders: 4
+Model: SUBARU BRZ Class: small car Pollution Score: 5 MPG: 24 Cylinders: 4
+Model: SUBARU BRZ Class: small car Pollution Score: 5 MPG: 24 Cylinders: 4
+Model: SUBARU Forester Class: small SUV Pollution Score: 5 MPG: 25 Cylinders: 4
+Model: SUBARU Forester Class: small SUV Pollution Score: 5 MPG: 25 Cylinders: 4
+Model: SUBARU Legacy Class: midsize car Pollution Score: 5 MPG: 29 Cylinders: 4
+Model: SUBARU Legacy Class: midsize car Pollution Score: 5 MPG: 29 Cylinders: 4
+Model: SUBARU Outback Class: small SUV Pollution Score: 5 MPG: 28 Cylinders: 4
+Model: SUBARU Outback Class: small SUV Pollution Score: 5 MPG: 28 Cylinders: 4
+Model: SUBARU WRX Class: small car Pollution Score: 5 MPG: 19 Cylinders: 4
+Model: SUBARU WRX Class: small car Pollution Score: 5 MPG: 19 Cylinders: 4
+Model: SUBARU WRX Class: small car Pollution Score: 5 MPG: 21 Cylinders: 4
+Model: SUBARU WRX Class: small car Pollution Score: 5 MPG: 21 Cylinders: 4
+Model: SUBARU WRX Class: small car Pollution Score: 5 MPG: 23 Cylinders: 4
+Model: SUBARU WRX Class: small car Pollution Score: 5 MPG: 23 Cylinders: 4
+Model: TOYOTA 86 Class: small car Pollution Score: 5 MPG: 27 Cylinders: 4
+Model: TOYOTA 86 Class: small car Pollution Score: 5 MPG: 27 Cylinders: 4
+Model: TOYOTA 86 Class: small car Pollution Score: 5 MPG: 24 Cylinders: 4
+Model: TOYOTA 86 Class: small car Pollution Score: 5 MPG: 24 Cylinders: 4
+Model: TOYOTA Land Cruiser Class: standard SUV Pollution Score: 5 MPG: 15 Cylinders: 8
+Model: TOYOTA Tundra Class: pickup Pollution Score: 5 MPG: 15 Cylinders: 8
+Model: TOYOTA Tundra Class: pickup Pollution Score: 5 MPG: 15 Cylinders: 8
+Model: TOYOTA Tundra Class: pickup Pollution Score: 5 MPG: 16 Cylinders: 8
+Model: TOYOTA Tundra Class: pickup Pollution Score: 5 MPG: 16 Cylinders: 8
+Model: TOYOTA Tundra FFV Class: pickup Pollution Score: 5 MPG: 10 Cylinders: 8
+Model: TOYOTA Tundra FFV Class: pickup Pollution Score: 5 MPG: 11 Cylinders: 8
+Model: VOLKSWAGEN Touareg Class: standard SUV Pollution Score: 5 MPG: 19 Cylinders: 6
+Model: VOLVO S60 Polestar Class: small car Pollution Score: 5 MPG: 23 Cylinders: 4
+Model: VOLVO S60 Polestar Class: small car Pollution Score: 5 MPG: 23 Cylinders: 4
+Model: VOLVO V60 Polestar Class: station wagon Pollution Score: 5 MPG: 23 Cylinders: 4
+Model: VOLVO V60 Polestar Class: station wagon Pollution Score: 5 MPG: 23 Cylinders: 4
+Model: ACURA ILX Class: small car Pollution Score: 6 MPG: 29 Cylinders: 4
+Model: ACURA ILX Class: small car Pollution Score: 6 MPG: 29 Cylinders: 4
+Model: ACURA MDX Class: small SUV Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: ACURA MDX Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: ACURA MDX Class: small SUV Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: ACURA MDX Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: ACURA MDX Class: small SUV Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: ACURA MDX Class: small SUV Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: ACURA MDX Class: small SUV Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: ACURA MDX Class: small SUV Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: ACURA NSX Class: small car Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: ACURA NSX Class: small car Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: ACURA RDX Class: small SUV Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: ACURA RDX Class: small SUV Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: ACURA RDX Class: small SUV Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: ACURA RDX Class: small SUV Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: ACURA RLX Class: midsize car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: ACURA RLX Class: midsize car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: ACURA TLX Class: small car Pollution Score: 6 MPG: 25 Cylinders: 6
+Model: ACURA TLX Class: small car Pollution Score: 6 MPG: 25 Cylinders: 6
+Model: ACURA TLX Class: small car Pollution Score: 6 MPG: 25 Cylinders: 6
+Model: ACURA TLX Class: small car Pollution Score: 6 MPG: 25 Cylinders: 6
+Model: ACURA TLX Class: small car Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: ACURA TLX Class: small car Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: AUDI A4 Class: small car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: AUDI A4 Class: small car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: AUDI A4 Class: small car Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: AUDI A4 Class: small car Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: AUDI A4 Ultra Class: small car Pollution Score: 6 MPG: 31 Cylinders: 4
+Model: AUDI A4 Ultra Class: small car Pollution Score: 6 MPG: 31 Cylinders: 4
+Model: AUDI A4 allroad quattro Class: station wagon Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: AUDI A4 allroad quattro Class: station wagon Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: AUDI A5 Class: small car Pollution Score: 6 MPG: 18 Cylinders: 4
+Model: AUDI A5 Class: small car Pollution Score: 6 MPG: 18 Cylinders: 4
+Model: AUDI A5 Class: small car Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: AUDI A5 Class: small car Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: AUDI A5 Cabriolet Class: small car Pollution Score: 6 MPG: 17 Cylinders: 4
+Model: AUDI A5 Cabriolet Class: small car Pollution Score: 6 MPG: 17 Cylinders: 4
+Model: AUDI A6 Class: midsize car Pollution Score: 6 MPG: 24 Cylinders: 6
+Model: AUDI A6 Class: midsize car Pollution Score: 6 MPG: 24 Cylinders: 6
+Model: AUDI A7 Class: midsize car Pollution Score: 6 MPG: 24 Cylinders: 6
+Model: AUDI A7 Class: midsize car Pollution Score: 6 MPG: 24 Cylinders: 6
+Model: AUDI A8 L Class: large car Pollution Score: 6 MPG: 22 Cylinders: 8
+Model: AUDI A8 L Class: large car Pollution Score: 6 MPG: 22 Cylinders: 8
+Model: AUDI A8 L Class: large car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: AUDI A8 L Class: large car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: AUDI Q3 Class: small car Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: AUDI Q3 Class: small car Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: AUDI Q3 Class: small car Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: AUDI Q3 Class: small car Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: AUDI Q5 Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: AUDI Q5 Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: AUDI Q5 Class: small SUV Pollution Score: 6 MPG: 16 Cylinders: 4
+Model: AUDI Q5 Class: small SUV Pollution Score: 6 MPG: 16 Cylinders: 4
+Model: AUDI Q7 Class: standard SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: AUDI RS7 Class: midsize car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: AUDI RS7 Class: midsize car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: AUDI S3 Class: small car Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: AUDI S3 Class: small car Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: AUDI S5 Class: small car Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: AUDI S5 Class: small car Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: AUDI S5 Class: small car Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: AUDI S5 Class: small car Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: AUDI S5 Cabriolet Class: small car Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: AUDI S5 Cabriolet Class: small car Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: AUDI S6 Class: midsize car Pollution Score: 6 MPG: 21 Cylinders: 8
+Model: AUDI S6 Class: midsize car Pollution Score: 6 MPG: 21 Cylinders: 8
+Model: AUDI S7 Class: midsize car Pollution Score: 6 MPG: 21 Cylinders: 8
+Model: AUDI S7 Class: midsize car Pollution Score: 6 MPG: 21 Cylinders: 8
+Model: AUDI S8 Class: midsize car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: AUDI S8 Class: midsize car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: AUDI SQ5 Class: small SUV Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: AUDI SQ5 Class: small SUV Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: AUDI TTS Coupe Class: small car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: AUDI TTS Coupe Class: small car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: BENTLEY Bentayga Class: standard SUV Pollution Score: 6 MPG: 15 Cylinders: 12
+Model: BENTLEY Bentayga Class: standard SUV Pollution Score: 6 MPG: 15 Cylinders: 12
+Model: BENTLEY Continental GT Class: small car Pollution Score: 6 MPG: 19 Cylinders: 8
+Model: BENTLEY Continental GT Class: small car Pollution Score: 6 MPG: 19 Cylinders: 8
+Model: BENTLEY Continental GT Convertible Class: small car Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: BENTLEY Continental GT Convertible Class: small car Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: BENTLEY Flying Spur Class: midsize car Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: BENTLEY Flying Spur Class: midsize car Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: BMW 320i Class: small car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: BMW 320i Class: small car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: BMW 320i Class: small car Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: BMW 320i Class: small car Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: BMW 320i Class: small car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: BMW 320i Class: small car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: BMW 330e Class: small car Pollution Score: 6 MPG: 30 Cylinders: 4
+Model: BMW 330e Class: small car Pollution Score: 6 MPG: 30 Cylinders: 4
+Model: BMW 340i Class: small car Pollution Score: 6 MPG: 25 Cylinders: 6
+Model: BMW 340i Class: small car Pollution Score: 6 MPG: 25 Cylinders: 6
+Model: BMW 340i Class: small car Pollution Score: 6 MPG: 25 Cylinders: 6
+Model: BMW 340i Class: small car Pollution Score: 6 MPG: 25 Cylinders: 6
+Model: BMW 340i Class: small car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: BMW 340i Class: small car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: BMW 340i Class: small car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: BMW 340i Class: small car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: BMW 340i Gran Turismo Class: large car Pollution Score: 6 MPG: 24 Cylinders: 6
+Model: BMW 340i Gran Turismo Class: large car Pollution Score: 6 MPG: 24 Cylinders: 6
+Model: BMW 440i Convertible Class: small car Pollution Score: 6 MPG: 24 Cylinders: 6
+Model: BMW 440i Convertible Class: small car Pollution Score: 6 MPG: 24 Cylinders: 6
+Model: BMW 440i Convertible Class: small car Pollution Score: 6 MPG: 24 Cylinders: 6
+Model: BMW 440i Convertible Class: small car Pollution Score: 6 MPG: 24 Cylinders: 6
+Model: BMW 440i Coupe Class: small car Pollution Score: 6 MPG: 25 Cylinders: 6
+Model: BMW 440i Coupe Class: small car Pollution Score: 6 MPG: 25 Cylinders: 6
+Model: BMW 440i Coupe Class: small car Pollution Score: 6 MPG: 25 Cylinders: 6
+Model: BMW 440i Coupe Class: small car Pollution Score: 6 MPG: 25 Cylinders: 6
+Model: BMW 440i Coupe Class: small car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: BMW 440i Coupe Class: small car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: BMW 440i Coupe Class: small car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: BMW 440i Coupe Class: small car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: BMW 440i Gran Coupe Class: small car Pollution Score: 6 MPG: 25 Cylinders: 6
+Model: BMW 440i Gran Coupe Class: small car Pollution Score: 6 MPG: 25 Cylinders: 6
+Model: BMW 440i Gran Coupe Class: small car Pollution Score: 6 MPG: 25 Cylinders: 6
+Model: BMW 440i Gran Coupe Class: small car Pollution Score: 6 MPG: 25 Cylinders: 6
+Model: BMW 535i Gran Turismo Class: large car Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: BMW 535i Gran Turismo Class: large car Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: BMW 535i Gran Turismo Class: large car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: BMW 535i Gran Turismo Class: large car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: BMW 550i Gran Turismo Class: large car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: BMW 550i Gran Turismo Class: large car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: BMW 640i Class: small car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: BMW 640i Class: small car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: BMW 640i Class: small car Pollution Score: 6 MPG: 24 Cylinders: 6
+Model: BMW 640i Class: small car Pollution Score: 6 MPG: 24 Cylinders: 6
+Model: BMW 640i Convertible Class: small car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: BMW 640i Convertible Class: small car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: BMW 640i Convertible Class: small car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: BMW 640i Convertible Class: small car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: BMW 640i Gran Coupe Class: small car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: BMW 640i Gran Coupe Class: small car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: BMW 640i Gran Coupe Class: small car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: BMW 640i Gran Coupe Class: small car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: BMW 650i Class: small car Pollution Score: 6 MPG: 19 Cylinders: 8
+Model: BMW 650i Class: small car Pollution Score: 6 MPG: 19 Cylinders: 8
+Model: BMW 650i Class: small car Pollution Score: 6 MPG: 19 Cylinders: 8
+Model: BMW 650i Class: small car Pollution Score: 6 MPG: 19 Cylinders: 8
+Model: BMW 650i Convertible Class: small car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: BMW 650i Convertible Class: small car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: BMW 650i Convertible Class: small car Pollution Score: 6 MPG: 19 Cylinders: 8
+Model: BMW 650i Convertible Class: small car Pollution Score: 6 MPG: 19 Cylinders: 8
+Model: BMW 650i Gran Coupe Class: small car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: BMW 650i Gran Coupe Class: small car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: BMW 650i Gran Coupe Class: small car Pollution Score: 6 MPG: 19 Cylinders: 8
+Model: BMW 650i Gran Coupe Class: small car Pollution Score: 6 MPG: 19 Cylinders: 8
+Model: BMW 740e Class: large car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: BMW 740e Class: large car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: BMW 740i Class: large car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: BMW 740i Class: large car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: BMW 740i Class: large car Pollution Score: 6 MPG: 24 Cylinders: 6
+Model: BMW 740i Class: large car Pollution Score: 6 MPG: 24 Cylinders: 6
+Model: BMW 750i Class: large car Pollution Score: 6 MPG: 19 Cylinders: 8
+Model: BMW 750i Class: large car Pollution Score: 6 MPG: 19 Cylinders: 8
+Model: BMW 750i Class: large car Pollution Score: 6 MPG: 20 Cylinders: 8
+Model: BMW 750i Class: large car Pollution Score: 6 MPG: 20 Cylinders: 8
+Model: BMW Alpina B6 Gran Coupe Class: small car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: BMW Alpina B6 Gran Coupe Class: small car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: BMW Alpina B7 Class: large car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: BMW Alpina B7 Class: large car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: BMW M2 Class: small car Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: BMW M2 Class: small car Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: BMW M2 Class: small car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: BMW M2 Class: small car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: BMW M240i Convertible Class: small car Pollution Score: 6 MPG: 25 Cylinders: 6
+Model: BMW M240i Convertible Class: small car Pollution Score: 6 MPG: 25 Cylinders: 6
+Model: BMW M240i Convertible Class: small car Pollution Score: 6 MPG: 25 Cylinders: 6
+Model: BMW M240i Convertible Class: small car Pollution Score: 6 MPG: 25 Cylinders: 6
+Model: BMW M240i Convertible Class: small car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: BMW M240i Convertible Class: small car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: BMW M240i Coupe Class: small car Pollution Score: 6 MPG: 25 Cylinders: 6
+Model: BMW M240i Coupe Class: small car Pollution Score: 6 MPG: 25 Cylinders: 6
+Model: BMW M240i Coupe Class: small car Pollution Score: 6 MPG: 25 Cylinders: 6
+Model: BMW M240i Coupe Class: small car Pollution Score: 6 MPG: 25 Cylinders: 6
+Model: BMW M240i Coupe Class: small car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: BMW M240i Coupe Class: small car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: BMW M3 Class: small car Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: BMW M3 Class: small car Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: BMW M3 Class: small car Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: BMW M3 Class: small car Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: BMW M4 Convertible Class: small car Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: BMW M4 Convertible Class: small car Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: BMW M4 Convertible Class: small car Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: BMW M4 Convertible Class: small car Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: BMW M4 Coupe Class: small car Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: BMW M4 Coupe Class: small car Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: BMW M4 Coupe Class: small car Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: BMW M4 Coupe Class: small car Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: BMW X3 sDrive28i Class: small SUV Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: BMW X3 sDrive28i Class: small SUV Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: BMW X3 xDrive28i Class: small SUV Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: BMW X3 xDrive28i Class: small SUV Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: BMW X3 xDrive35i Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: BMW X3 xDrive35i Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: BMW X4 M40i Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: BMW X4 M40i Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: BMW X5 M Class: standard SUV Pollution Score: 6 MPG: 16 Cylinders: 8
+Model: BMW X5 sDrive35i Class: standard SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: BMW X5 sDrive35i Class: standard SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: BMW X5 xDrive35i Class: standard SUV Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: BMW X5 xDrive35i Class: standard SUV Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: BMW X5 xDrive40e Class: standard SUV Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: BMW X5 xDrive50i Class: standard SUV Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: BMW X5 xDrive50i Class: standard SUV Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: BMW X6 M Class: standard SUV Pollution Score: 6 MPG: 16 Cylinders: 8
+Model: BMW X6 sDrive35i Class: standard SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: BMW X6 sDrive35i Class: standard SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: BMW X6 xDrive35i Class: standard SUV Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: BMW X6 xDrive35i Class: standard SUV Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: BMW X6 xDrive50i Class: standard SUV Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: BMW X6 xDrive50i Class: standard SUV Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: BMW i8 Class: small car Pollution Score: 6 MPG: 28 Cylinders: 3
+Model: BMW i8 Class: small car Pollution Score: 6 MPG: 28 Cylinders: 3
+Model: BUICK Cascada Class: small car Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: BUICK Cascada Class: small car Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: BUICK Enclave Class: standard SUV Pollution Score: 6 MPG: 17 Cylinders: 6
+Model: BUICK Enclave Class: standard SUV Pollution Score: 6 MPG: 18 Cylinders: 6
+Model: BUICK Encore Class: small SUV Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: BUICK Encore Class: small SUV Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: BUICK Encore Class: small SUV Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: BUICK Encore Class: small SUV Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: BUICK Encore Class: small SUV Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: BUICK Encore Class: small SUV Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: BUICK Encore Class: small SUV Pollution Score: 6 MPG: 30 Cylinders: 4
+Model: BUICK Encore Class: small SUV Pollution Score: 6 MPG: 30 Cylinders: 4
+Model: BUICK Envision Class: small SUV Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: BUICK Envision Class: small SUV Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: BUICK Envision Class: small SUV Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: BUICK Envision Class: small SUV Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: BUICK Envision Class: small SUV Pollution Score: 6 MPG: 22 Cylinders: 4
+Model: BUICK Envision Class: small SUV Pollution Score: 6 MPG: 22 Cylinders: 4
+Model: BUICK Lacrosse Class: midsize car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: BUICK Lacrosse Class: midsize car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: BUICK Lacrosse Class: midsize car Pollution Score: 6 MPG: 25 Cylinders: 6
+Model: BUICK Lacrosse Class: midsize car Pollution Score: 6 MPG: 25 Cylinders: 6
+Model: BUICK Regal Class: midsize car Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: BUICK Regal Class: midsize car Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: BUICK Regal Class: midsize car Pollution Score: 6 MPG: 22 Cylinders: 4
+Model: BUICK Regal Class: midsize car Pollution Score: 6 MPG: 22 Cylinders: 4
+Model: BUICK Regal Class: midsize car Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: BUICK Regal Class: midsize car Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: BUICK Verano Class: small car Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: BUICK Verano Class: small car Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: CADILLAC ATS Class: small car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: CADILLAC ATS Class: small car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: CADILLAC ATS Class: small car Pollution Score: 6 MPG: 24 Cylinders: 6
+Model: CADILLAC ATS Class: small car Pollution Score: 6 MPG: 24 Cylinders: 6
+Model: CADILLAC ATS Class: small car Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: CADILLAC ATS Class: small car Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: CADILLAC ATS Class: small car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: CADILLAC ATS Class: small car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: CADILLAC ATS Class: small car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: CADILLAC ATS Class: small car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: CADILLAC ATS Class: small car Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: CADILLAC ATS Class: small car Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: CADILLAC ATS-V Class: small car Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: CADILLAC ATS-V Class: small car Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: CADILLAC ATS-V Class: small car Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: CADILLAC ATS-V Class: small car Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: CADILLAC CT6 Class: large car Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: CADILLAC CT6 Class: large car Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: CADILLAC CT6 Class: large car Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: CADILLAC CT6 Class: large car Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: CADILLAC CT6 Class: large car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: CADILLAC CT6 Class: large car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: CADILLAC CTS Class: midsize car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: CADILLAC CTS Class: midsize car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: CADILLAC CTS Class: midsize car Pollution Score: 6 MPG: 18 Cylinders: 6
+Model: CADILLAC CTS Class: midsize car Pollution Score: 6 MPG: 18 Cylinders: 6
+Model: CADILLAC CTS Class: midsize car Pollution Score: 6 MPG: 24 Cylinders: 6
+Model: CADILLAC CTS Class: midsize car Pollution Score: 6 MPG: 24 Cylinders: 6
+Model: CADILLAC CTS Class: midsize car Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: CADILLAC CTS Class: midsize car Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: CADILLAC CTS Class: midsize car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: CADILLAC CTS Class: midsize car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: CADILLAC Escalade Class: standard SUV Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: CADILLAC Escalade Class: standard SUV Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: CADILLAC XT5 Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: CADILLAC XT5 Class: small SUV Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: CADILLAC XTS Class: large car Pollution Score: 6 MPG: 18 Cylinders: 6
+Model: CADILLAC XTS Class: large car Pollution Score: 6 MPG: 18 Cylinders: 6
+Model: CADILLAC XTS Class: large car Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: CADILLAC XTS Class: large car Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: CADILLAC XTS Class: large car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: CADILLAC XTS Class: large car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: CADILLAC XTS Limo Class: special purpose Pollution Score: 6 MPG: 17 Cylinders: 6
+Model: CADILLAC XTS Limo Class: special purpose Pollution Score: 6 MPG: 17 Cylinders: 6
+Model: CHEVROLET Camaro Class: small car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: CHEVROLET Camaro Class: small car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: CHEVROLET Camaro Class: small car Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: CHEVROLET Camaro Class: small car Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: CHEVROLET Camaro Class: small car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: CHEVROLET Camaro Class: small car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: CHEVROLET Camaro Class: small car Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: CHEVROLET Camaro Class: small car Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: CHEVROLET Cruze Class: small car Pollution Score: 6 MPG: 34 Cylinders: 4
+Model: CHEVROLET Cruze Class: small car Pollution Score: 6 MPG: 34 Cylinders: 4
+Model: CHEVROLET Cruze Class: small car Pollution Score: 6 MPG: 32 Cylinders: 4
+Model: CHEVROLET Cruze Class: small car Pollution Score: 6 MPG: 32 Cylinders: 4
+Model: CHEVROLET Cruze Hatchback Class: small car Pollution Score: 6 MPG: 32 Cylinders: 4
+Model: CHEVROLET Cruze Hatchback Class: small car Pollution Score: 6 MPG: 32 Cylinders: 4
+Model: CHEVROLET Cruze Hatchback Class: small car Pollution Score: 6 MPG: 31 Cylinders: 4
+Model: CHEVROLET Cruze Hatchback Class: small car Pollution Score: 6 MPG: 31 Cylinders: 4
+Model: CHEVROLET Cruze Premier Class: small car Pollution Score: 6 MPG: 33 Cylinders: 4
+Model: CHEVROLET Cruze Premier Class: small car Pollution Score: 6 MPG: 33 Cylinders: 4
+Model: CHEVROLET Cruze Premier Hatchback Class: small car Pollution Score: 6 MPG: 31 Cylinders: 4
+Model: CHEVROLET Cruze Premier Hatchback Class: small car Pollution Score: 6 MPG: 31 Cylinders: 4
+Model: CHEVROLET Equinox Class: small SUV Pollution Score: 6 MPG: 18 Cylinders: 6
+Model: CHEVROLET Equinox Class: small SUV Pollution Score: 6 MPG: 18 Cylinders: 6
+Model: CHEVROLET Equinox Class: small SUV Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: CHEVROLET Equinox Class: small SUV Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: CHEVROLET Equinox Class: small SUV Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: CHEVROLET Equinox Class: small SUV Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: CHEVROLET Equinox Class: small SUV Pollution Score: 6 MPG: 17 Cylinders: 4
+Model: CHEVROLET Equinox Class: small SUV Pollution Score: 6 MPG: 17 Cylinders: 4
+Model: CHEVROLET Equinox Class: small SUV Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: CHEVROLET Equinox Class: small SUV Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: CHEVROLET Equinox Class: small SUV Pollution Score: 6 MPG: 17 Cylinders: 4
+Model: CHEVROLET Equinox Class: small SUV Pollution Score: 6 MPG: 17 Cylinders: 4
+Model: CHEVROLET Impala Class: large car Pollution Score: 6 MPG: 16 Cylinders: 6
+Model: CHEVROLET Impala Class: large car Pollution Score: 6 MPG: 16 Cylinders: 6
+Model: CHEVROLET Impala Class: large car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: CHEVROLET Impala Class: large car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: CHEVROLET Malibu Class: midsize car Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: CHEVROLET Malibu Class: midsize car Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: CHEVROLET Malibu Class: midsize car Pollution Score: 6 MPG: 44 Cylinders: 4
+Model: CHEVROLET Malibu Class: midsize car Pollution Score: 6 MPG: 44 Cylinders: 4
+Model: CHEVROLET Malibu Class: midsize car Pollution Score: 6 MPG: 30 Cylinders: 4
+Model: CHEVROLET Malibu Class: midsize car Pollution Score: 6 MPG: 30 Cylinders: 4
+Model: CHEVROLET Silverado 15 Class: pickup Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: CHEVROLET Silverado 15 Class: pickup Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: CHEVROLET Silverado 15 Class: pickup Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: CHEVROLET Silverado 15 Class: pickup Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: CHEVROLET Silverado 15 Class: pickup Pollution Score: 6 MPG: 20 Cylinders: 8
+Model: CHEVROLET Silverado 15 Class: special purpose Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: CHEVROLET Silverado 15 Class: pickup Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: CHEVROLET Silverado 15 Class: pickup Pollution Score: 6 MPG: 13 Cylinders: 8
+Model: CHEVROLET Silverado 15 Class: special purpose Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: CHEVROLET Silverado 15 Class: pickup Pollution Score: 6 MPG: 19 Cylinders: 8
+Model: CHEVROLET Silverado 15 Class: pickup Pollution Score: 6 MPG: 14 Cylinders: 8
+Model: CHEVROLET Sonic Class: small car Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: CHEVROLET Sonic Class: small car Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: CHEVROLET Sonic Class: small car Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: CHEVROLET Sonic Class: small car Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: CHEVROLET Sonic Class: small car Pollution Score: 6 MPG: 30 Cylinders: 4
+Model: CHEVROLET Sonic Class: small car Pollution Score: 6 MPG: 30 Cylinders: 4
+Model: CHEVROLET Sonic Class: small car Pollution Score: 6 MPG: 32 Cylinders: 4
+Model: CHEVROLET Sonic Class: small car Pollution Score: 6 MPG: 32 Cylinders: 4
+Model: CHEVROLET Sonic 5 Class: station wagon Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: CHEVROLET Sonic 5 Class: station wagon Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: CHEVROLET Sonic 5 Class: station wagon Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: CHEVROLET Sonic 5 Class: station wagon Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: CHEVROLET Sonic 5 Class: station wagon Pollution Score: 6 MPG: 30 Cylinders: 4
+Model: CHEVROLET Sonic 5 Class: station wagon Pollution Score: 6 MPG: 30 Cylinders: 4
+Model: CHEVROLET Sonic 5 Class: station wagon Pollution Score: 6 MPG: 32 Cylinders: 4
+Model: CHEVROLET Sonic 5 Class: station wagon Pollution Score: 6 MPG: 32 Cylinders: 4
+Model: CHEVROLET Suburban 1500 Class: standard SUV Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: CHEVROLET Suburban 1500 Class: standard SUV Pollution Score: 6 MPG: 12 Cylinders: 8
+Model: CHEVROLET Suburban 1500 Class: standard SUV Pollution Score: 6 MPG: 19 Cylinders: 8
+Model: CHEVROLET Suburban 1500 Class: standard SUV Pollution Score: 6 MPG: 14 Cylinders: 8
+Model: CHEVROLET Tahoe 1500 Class: standard SUV Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: CHEVROLET Tahoe 1500 Class: standard SUV Pollution Score: 6 MPG: 13 Cylinders: 8
+Model: CHEVROLET Tahoe 1500 Class: standard SUV Pollution Score: 6 MPG: 19 Cylinders: 8
+Model: CHEVROLET Tahoe 1500 Class: standard SUV Pollution Score: 6 MPG: 14 Cylinders: 8
+Model: CHEVROLET Traverse Class: standard SUV Pollution Score: 6 MPG: 17 Cylinders: 6
+Model: CHEVROLET Traverse Class: standard SUV Pollution Score: 6 MPG: 18 Cylinders: 6
+Model: CHEVROLET Trax Class: small SUV Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: CHEVROLET Trax Class: small SUV Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: CHEVROLET Trax Class: small SUV Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: CHEVROLET Trax Class: small SUV Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: CHEVROLET Volt Class: small car Pollution Score: 6 MPG: 42 Cylinders: 4
+Model: CHEVROLET Volt Class: small car Pollution Score: 6 MPG: 42 Cylinders: 4
+Model: CHRYSLER 200 Class: midsize car Pollution Score: 6 MPG: 16 Cylinders: 6
+Model: CHRYSLER 200 Class: midsize car Pollution Score: 6 MPG: 16 Cylinders: 6
+Model: CHRYSLER 200 Class: midsize car Pollution Score: 6 MPG: 17 Cylinders: 6
+Model: CHRYSLER 200 Class: midsize car Pollution Score: 6 MPG: 17 Cylinders: 6
+Model: CHRYSLER 200 Class: midsize car Pollution Score: 6 MPG: 20 Cylinders: 4
+Model: CHRYSLER 200 Class: midsize car Pollution Score: 6 MPG: 20 Cylinders: 4
+Model: CHRYSLER Pacifica Class: minivan Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: CHRYSLER Pacifica Class: minivan Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: DODGE Durango Class: standard SUV Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: DODGE Durango Class: standard SUV Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: DODGE Durango Class: standard SUV Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: DODGE Durango Class: standard SUV Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: DODGE Durango Class: standard SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: DODGE Durango Class: standard SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: DODGE Durango Class: standard SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: DODGE Durango Class: standard SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: DODGE Grand Caravan Class: minivan Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: DODGE Grand Caravan Class: minivan Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: DODGE Grand Caravan Class: minivan Pollution Score: 6 MPG: 14 Cylinders: 6
+Model: DODGE Grand Caravan Class: minivan Pollution Score: 6 MPG: 14 Cylinders: 6
+Model: DODGE Journey Class: small SUV Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: DODGE Journey Class: small SUV Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: DODGE Journey Class: small SUV Pollution Score: 6 MPG: 14 Cylinders: 6
+Model: DODGE Journey Class: small SUV Pollution Score: 6 MPG: 14 Cylinders: 6
+Model: DODGE Journey Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 4
+Model: DODGE Journey Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 4
+Model: FERRARI 488 Spider Class: small car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: FERRARI 488 Spider Class: small car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: FERRARI 488 Spider Class: small car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: FERRARI 488 Spider Class: small car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: FERRARI 488 gtb Class: small car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: FERRARI 488 gtb Class: small car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: FERRARI 488 gtb Class: small car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: FERRARI 488 gtb Class: small car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: FERRARI California T Class: small car Pollution Score: 6 MPG: 19 Cylinders: 8
+Model: FERRARI California T Class: small car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: FERRARI California T Class: small car Pollution Score: 6 MPG: 19 Cylinders: 8
+Model: FERRARI California T Class: small car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: FERRARI F12 Berlinetta Class: small car Pollution Score: 6 MPG: 13 Cylinders: 12
+Model: FERRARI F12 Berlinetta Class: small car Pollution Score: 6 MPG: 13 Cylinders: 12
+Model: FERRARI F12 Berlinetta Class: small car Pollution Score: 6 MPG: 13 Cylinders: 12
+Model: FERRARI F12 Berlinetta Class: small car Pollution Score: 6 MPG: 13 Cylinders: 12
+Model: FERRARI F12 tdf Class: small car Pollution Score: 6 MPG: 13 Cylinders: 12
+Model: FERRARI F12 tdf Class: small car Pollution Score: 6 MPG: 12 Cylinders: 12
+Model: FERRARI F12 tdf Class: small car Pollution Score: 6 MPG: 13 Cylinders: 12
+Model: FERRARI F12 tdf Class: small car Pollution Score: 6 MPG: 12 Cylinders: 12
+Model: FERRARI GTC4Lusso Class: small car Pollution Score: 6 MPG: 13 Cylinders: 12
+Model: FERRARI GTC4Lusso Class: small car Pollution Score: 6 MPG: 13 Cylinders: 12
+Model: FERRARI GTC4Lusso Class: small car Pollution Score: 6 MPG: 13 Cylinders: 12
+Model: FERRARI GTC4Lusso Class: small car Pollution Score: 6 MPG: 13 Cylinders: 12
+Model: FERRARI LaFerrari Aperta Class: small car Pollution Score: 6 MPG: 13 Cylinders: 12
+Model: FIAT 124 Spider Class: small car Pollution Score: 6 MPG: 30 Cylinders: 4
+Model: FIAT 124 Spider Class: small car Pollution Score: 6 MPG: 30 Cylinders: 4
+Model: FIAT 124 Spider Class: small car Pollution Score: 6 MPG: 29 Cylinders: 4
+Model: FIAT 124 Spider Class: small car Pollution Score: 6 MPG: 29 Cylinders: 4
+Model: FIAT 500 Class: small car Pollution Score: 6 MPG: 34 Cylinders: 4
+Model: FIAT 500 Class: small car Pollution Score: 6 MPG: 34 Cylinders: 4
+Model: FIAT 500 Class: small car Pollution Score: 6 MPG: 30 Cylinders: 4
+Model: FIAT 500 Class: small car Pollution Score: 6 MPG: 30 Cylinders: 4
+Model: FIAT 500 Class: small car Pollution Score: 6 MPG: 29 Cylinders: 4
+Model: FIAT 500 Class: small car Pollution Score: 6 MPG: 29 Cylinders: 4
+Model: FIAT 500 Class: small car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: FIAT 500 Class: small car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: FIAT 500 Abarth Class: small car Pollution Score: 6 MPG: 30 Cylinders: 4
+Model: FIAT 500 Abarth Class: small car Pollution Score: 6 MPG: 30 Cylinders: 4
+Model: FIAT 500 Abarth Class: small car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: FIAT 500 Abarth Class: small car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: FIAT 500L Class: station wagon Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: FIAT 500L Class: station wagon Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: FORD Escape Class: small SUV Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: FORD Escape Class: small SUV Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: FORD Escape Class: small SUV Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: FORD Escape Class: small SUV Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: FORD Escape Class: small SUV Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: FORD Escape FFV Class: small SUV Pollution Score: 6 MPG: 18 Cylinders: 4
+Model: FORD Expedition Class: standard SUV Pollution Score: 6 MPG: 17 Cylinders: 6
+Model: FORD Expedition Class: standard SUV Pollution Score: 6 MPG: 18 Cylinders: 6
+Model: FORD Expedition EL Class: standard SUV Pollution Score: 6 MPG: 16 Cylinders: 6
+Model: FORD Expedition EL Class: standard SUV Pollution Score: 6 MPG: 17 Cylinders: 6
+Model: FORD Explorer Class: standard SUV Pollution Score: 6 MPG: 18 Cylinders: 6
+Model: FORD Explorer Class: standard SUV Pollution Score: 6 MPG: 18 Cylinders: 6
+Model: FORD Explorer Class: standard SUV Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: FORD Explorer Class: standard SUV Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: FORD Explorer Class: standard SUV Pollution Score: 6 MPG: 21 Cylinders: 4
+Model: FORD Explorer Class: standard SUV Pollution Score: 6 MPG: 22 Cylinders: 4
+Model: FORD Explorer Class: standard SUV Pollution Score: 6 MPG: 22 Cylinders: 4
+Model: FORD Fusion Class: midsize car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: FORD Fusion Class: midsize car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: FORD Mustang Class: small car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: FORD Mustang Class: small car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: FORD Mustang Class: small car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: FORD Mustang Class: small car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: FORD Mustang Class: small car Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: FORD Mustang Class: small car Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: FORD Mustang Class: small car Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: FORD Mustang Class: small car Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: FORD Mustang Class: small car Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: FORD Mustang Class: small car Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: FORD Mustang Convertible Class: small car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: FORD Mustang Convertible Class: small car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: FORD Mustang Convertible Class: small car Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: FORD Mustang Convertible Class: small car Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: FORD Mustang Convertible Class: small car Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: FORD Mustang Convertible Class: small car Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: FORD Mustang Performance Package Class: small car Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: FORD Mustang Performance Package Class: small car Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: FORD Mustang Performance Package Class: small car Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: FORD Mustang Performance Package Class: small car Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: FORD Shelby GT350 Mustang Class: small car Pollution Score: 6 MPG: 16 Cylinders: 8
+Model: FORD Shelby GT350 Mustang Class: small car Pollution Score: 6 MPG: 16 Cylinders: 8
+Model: FORD Transit Connect Class: special purpose Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: FORD Transit Connect Class: special purpose Pollution Score: 6 MPG: 22 Cylinders: 4
+Model: FORD Transit Connect Class: special purpose Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: FORD Transit Connect Class: special purpose Pollution Score: 6 MPG: 22 Cylinders: 4
+Model: FORD Transit Connect Class: special purpose Pollution Score: 6 MPG: 17 Cylinders: 4
+Model: FORD Transit Connect Class: special purpose Pollution Score: 6 MPG: 16 Cylinders: 4
+Model: FORD Transit Connect Class: special purpose Pollution Score: 6 MPG: 16 Cylinders: 4
+Model: GENESIS G80 Class: large car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: GENESIS G80 Class: large car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: GENESIS G80 Class: large car Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: GENESIS G80 Class: large car Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: GENESIS G80 Class: large car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: GENESIS G80 Class: large car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: GENESIS G90 Class: large car Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: GENESIS G90 Class: large car Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: GENESIS G90 Class: large car Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: GENESIS G90 Class: large car Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: GMC Acadia Class: standard SUV Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: GMC Acadia Class: standard SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: GMC Acadia Class: standard SUV Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: GMC Acadia Class: standard SUV Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: GMC Acadia Class: standard SUV Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: GMC Acadia Class: standard SUV Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: GMC Acadia Limited Class: standard SUV Pollution Score: 6 MPG: 17 Cylinders: 6
+Model: GMC Acadia Limited Class: standard SUV Pollution Score: 6 MPG: 18 Cylinders: 6
+Model: GMC Sierra 15 Class: pickup Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: GMC Sierra 15 Class: pickup Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: GMC Sierra 15 Class: pickup Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: GMC Sierra 15 Class: pickup Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: GMC Sierra 15 Class: pickup Pollution Score: 6 MPG: 20 Cylinders: 8
+Model: GMC Sierra 15 Class: special purpose Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: GMC Sierra 15 Class: pickup Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: GMC Sierra 15 Class: pickup Pollution Score: 6 MPG: 13 Cylinders: 8
+Model: GMC Sierra 15 Class: special purpose Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: GMC Sierra 15 Class: pickup Pollution Score: 6 MPG: 19 Cylinders: 8
+Model: GMC Sierra 15 Class: pickup Pollution Score: 6 MPG: 14 Cylinders: 8
+Model: GMC Terrain Class: small SUV Pollution Score: 6 MPG: 18 Cylinders: 6
+Model: GMC Terrain Class: small SUV Pollution Score: 6 MPG: 18 Cylinders: 6
+Model: GMC Terrain Class: small SUV Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: GMC Terrain Class: small SUV Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: GMC Terrain Class: small SUV Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: GMC Terrain Class: small SUV Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: GMC Terrain Class: small SUV Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: GMC Terrain Class: small SUV Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: GMC Terrain Class: small SUV Pollution Score: 6 MPG: 17 Cylinders: 4
+Model: GMC Terrain Class: small SUV Pollution Score: 6 MPG: 17 Cylinders: 4
+Model: GMC Yukon 1500 Class: standard SUV Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: GMC Yukon 1500 Class: standard SUV Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: GMC Yukon 1500 Class: standard SUV Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: GMC Yukon 1500 Class: standard SUV Pollution Score: 6 MPG: 13 Cylinders: 8
+Model: GMC Yukon 1500 Class: standard SUV Pollution Score: 6 MPG: 19 Cylinders: 8
+Model: GMC Yukon 1500 Class: standard SUV Pollution Score: 6 MPG: 14 Cylinders: 8
+Model: GMC Yukon 1500 XL Class: standard SUV Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: GMC Yukon 1500 XL Class: standard SUV Pollution Score: 6 MPG: 19 Cylinders: 8
+Model: GMC Yukon 1500 XL Class: standard SUV Pollution Score: 6 MPG: 14 Cylinders: 8
+Model: GMC Yukon XL 1500 Class: standard SUV Pollution Score: 6 MPG: 16 Cylinders: 8
+Model: GMC Yukon XL 1500 Class: standard SUV Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: GMC Yukon XL 1500 Class: standard SUV Pollution Score: 6 MPG: 12 Cylinders: 8
+Model: HONDA Accord Class: midsize car Pollution Score: 6 MPG: 24 Cylinders: 6
+Model: HONDA Accord Class: midsize car Pollution Score: 6 MPG: 24 Cylinders: 6
+Model: HONDA Accord Class: midsize car Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: HONDA Accord Class: midsize car Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: HONDA Accord Class: midsize car Pollution Score: 6 MPG: 25 Cylinders: 6
+Model: HONDA Accord Class: midsize car Pollution Score: 6 MPG: 25 Cylinders: 6
+Model: HONDA Accord Class: midsize car Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: HONDA Accord Class: midsize car Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: HONDA Fit Class: station wagon Pollution Score: 6 MPG: 34 Cylinders: 4
+Model: HONDA Fit Class: station wagon Pollution Score: 6 MPG: 34 Cylinders: 4
+Model: HONDA Fit Class: station wagon Pollution Score: 6 MPG: 32 Cylinders: 4
+Model: HONDA Fit Class: station wagon Pollution Score: 6 MPG: 32 Cylinders: 4
+Model: HONDA Fit Class: station wagon Pollution Score: 6 MPG: 36 Cylinders: 4
+Model: HONDA Fit Class: station wagon Pollution Score: 6 MPG: 36 Cylinders: 4
+Model: HONDA HR-V Class: station wagon Pollution Score: 6 MPG: 29 Cylinders: 4
+Model: HONDA HR-V Class: station wagon Pollution Score: 6 MPG: 29 Cylinders: 4
+Model: HONDA HR-V Class: station wagon Pollution Score: 6 MPG: 31 Cylinders: 4
+Model: HONDA HR-V Class: station wagon Pollution Score: 6 MPG: 31 Cylinders: 4
+Model: HONDA HR-V Class: station wagon Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: HONDA HR-V Class: station wagon Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: HONDA HR-V Class: station wagon Pollution Score: 6 MPG: 29 Cylinders: 4
+Model: HONDA HR-V Class: station wagon Pollution Score: 6 MPG: 29 Cylinders: 4
+Model: HONDA HR-V Class: station wagon Pollution Score: 6 MPG: 31 Cylinders: 4
+Model: HONDA HR-V Class: station wagon Pollution Score: 6 MPG: 31 Cylinders: 4
+Model: HONDA Ridgeline Class: pickup Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: HONDA Ridgeline Class: pickup Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: HONDA Ridgeline Class: pickup Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: HONDA Ridgeline Class: pickup Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: HYUNDAI Accent Class: small car Pollution Score: 6 MPG: 30 Cylinders: 4
+Model: HYUNDAI Accent Class: small car Pollution Score: 6 MPG: 30 Cylinders: 4
+Model: HYUNDAI Accent Class: small car Pollution Score: 6 MPG: 31 Cylinders: 4
+Model: HYUNDAI Accent Class: small car Pollution Score: 6 MPG: 31 Cylinders: 4
+Model: HYUNDAI Azera Class: large car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: HYUNDAI Azera Class: large car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: HYUNDAI Azera Limited Class: large car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: HYUNDAI Azera Limited Class: large car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: HYUNDAI Elantra Class: midsize car Pollution Score: 6 MPG: 35 Cylinders: 4
+Model: HYUNDAI Elantra Class: midsize car Pollution Score: 6 MPG: 35 Cylinders: 4
+Model: HYUNDAI Elantra GT Class: midsize car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: HYUNDAI Elantra GT Class: midsize car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: HYUNDAI Elantra GT Class: midsize car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: HYUNDAI Elantra GT Class: midsize car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: HYUNDAI Santa Fe Class: small SUV Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: HYUNDAI Santa Fe Class: small SUV Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: HYUNDAI Santa Fe Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: HYUNDAI Santa Fe Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: HYUNDAI Santa Fe Sport Class: small SUV Pollution Score: 6 MPG: 22 Cylinders: 4
+Model: HYUNDAI Santa Fe Sport Class: small SUV Pollution Score: 6 MPG: 22 Cylinders: 4
+Model: HYUNDAI Santa Fe Sport Class: small SUV Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: HYUNDAI Santa Fe Sport Class: small SUV Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: HYUNDAI Santa Fe Sport Ultimate Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 4
+Model: HYUNDAI Santa Fe Sport Ultimate Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 4
+Model: HYUNDAI Santa Fe Sport Ultimate Class: small SUV Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: HYUNDAI Santa Fe Sport Ultimate Class: small SUV Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: HYUNDAI Santa Fe Ultimate Class: small SUV Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: HYUNDAI Santa Fe Ultimate Class: small SUV Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: HYUNDAI Santa Fe Ultimate Class: small SUV Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: HYUNDAI Santa Fe Ultimate Class: small SUV Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: HYUNDAI Sonata Class: large car Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: HYUNDAI Sonata Class: large car Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: HYUNDAI Sonata Class: large car Pollution Score: 6 MPG: 31 Cylinders: 4
+Model: HYUNDAI Sonata Class: large car Pollution Score: 6 MPG: 31 Cylinders: 4
+Model: HYUNDAI Sonata Hybrid Class: midsize car Pollution Score: 6 MPG: 40 Cylinders: 4
+Model: HYUNDAI Sonata Hybrid Class: midsize car Pollution Score: 6 MPG: 40 Cylinders: 4
+Model: HYUNDAI Sonata Hybrid SE Class: midsize car Pollution Score: 6 MPG: 42 Cylinders: 4
+Model: HYUNDAI Sonata Hybrid SE Class: midsize car Pollution Score: 6 MPG: 42 Cylinders: 4
+Model: HYUNDAI Sonata Limited Class: large car Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: HYUNDAI Sonata Limited Class: large car Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: HYUNDAI Tuscon Class: small SUV Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: HYUNDAI Tuscon Class: small SUV Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: HYUNDAI Tuscon Class: small SUV Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: HYUNDAI Tuscon Class: small SUV Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: HYUNDAI Tuscon Class: small SUV Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: HYUNDAI Tuscon Class: small SUV Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: HYUNDAI Tuscon Class: small SUV Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: HYUNDAI Tuscon Class: small SUV Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: HYUNDAI Tuscon Eco Class: small SUV Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: HYUNDAI Tuscon Eco Class: small SUV Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: HYUNDAI Tuscon Eco Class: small SUV Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: HYUNDAI Tuscon Eco Class: small SUV Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: HYUNDAI Veloster Class: small car Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: HYUNDAI Veloster Class: small car Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: HYUNDAI Veloster Class: small car Pollution Score: 6 MPG: 30 Cylinders: 4
+Model: HYUNDAI Veloster Class: small car Pollution Score: 6 MPG: 30 Cylinders: 4
+Model: HYUNDAI Veloster Class: small car Pollution Score: 6 MPG: 29 Cylinders: 4
+Model: HYUNDAI Veloster Class: small car Pollution Score: 6 MPG: 29 Cylinders: 4
+Model: HYUNDAI Veloster Class: small car Pollution Score: 6 MPG: 31 Cylinders: 4
+Model: HYUNDAI Veloster Class: small car Pollution Score: 6 MPG: 31 Cylinders: 4
+Model: INFINITI Q50 Class: midsize car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: INFINITI Q50 Class: midsize car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: INFINITI Q50 Class: midsize car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: INFINITI Q50 Class: midsize car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: INFINITI Q50 Class: midsize car Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: INFINITI Q50 Class: midsize car Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: INFINITI Q50 Class: midsize car Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: INFINITI Q50 Class: midsize car Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: INFINITI Q50S Red Sport Class: midsize car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: INFINITI Q50S Red Sport Class: midsize car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: INFINITI Q50S Red Sport Class: midsize car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: INFINITI Q50S Red Sport Class: midsize car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: INFINITI Q60 Class: small car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: INFINITI Q60 Class: small car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: INFINITI Q60 Class: small car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: INFINITI Q60 Class: small car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: INFINITI Q60 Class: small car Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: INFINITI Q60 Class: small car Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: INFINITI Q60 Class: small car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: INFINITI Q60 Class: small car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: INFINITI Q60S Red Sport Class: small car Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: INFINITI Q60S Red Sport Class: small car Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: INFINITI Q60S Red Sport Class: small car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: INFINITI Q60S Red Sport Class: small car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: INFINITI QX30 Class: small car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: INFINITI QX30 Class: small car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: INFINITI QX30 Class: small car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: INFINITI QX30 Class: small car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: INFINITI QX50 Class: station wagon Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: INFINITI QX50 Class: station wagon Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: INFINITI QX50 Class: station wagon Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: INFINITI QX50 Class: station wagon Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: INFINITI QX70 Class: small SUV Pollution Score: 6 MPG: 18 Cylinders: 6
+Model: INFINITI QX70 Class: small SUV Pollution Score: 6 MPG: 18 Cylinders: 6
+Model: INFINITI QX70 Class: small SUV Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: INFINITI QX70 Class: small SUV Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: JAGUAR F-Type R Convertible Class: small car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: JAGUAR F-Type R Convertible Class: small car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: JAGUAR F-Type R Coupe Class: small car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: JAGUAR F-Type R Coupe Class: small car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: JAGUAR XE Class: small car Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: JAGUAR XE Class: small car Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: JEEP Cherokee Class: small SUV Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: JEEP Cherokee Class: small SUV Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: JEEP Cherokee Class: small SUV Pollution Score: 6 MPG: 24 Cylinders: 6
+Model: JEEP Cherokee Class: small SUV Pollution Score: 6 MPG: 24 Cylinders: 6
+Model: JEEP Cherokee Class: small SUV Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: JEEP Cherokee Class: small SUV Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: JEEP Cherokee Class: small SUV Pollution Score: 6 MPG: 17 Cylinders: 4
+Model: JEEP Cherokee Class: small SUV Pollution Score: 6 MPG: 17 Cylinders: 4
+Model: JEEP Cherokee Class: small SUV Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: JEEP Cherokee Class: small SUV Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: JEEP Cherokee Class: small SUV Pollution Score: 6 MPG: 18 Cylinders: 4
+Model: JEEP Cherokee Class: small SUV Pollution Score: 6 MPG: 18 Cylinders: 4
+Model: JEEP Cherokee 4x4 Active Drive II Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: JEEP Cherokee 4x4 Active Drive II Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: JEEP Cherokee Trailhawk Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: JEEP Cherokee Trailhawk Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: JEEP Compass Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 4
+Model: JEEP Compass Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 4
+Model: JEEP Compass Class: small SUV Pollution Score: 6 MPG: 22 Cylinders: 4
+Model: JEEP Compass Class: small SUV Pollution Score: 6 MPG: 22 Cylinders: 4
+Model: JEEP Compass Class: small SUV Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: JEEP Compass Class: small SUV Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: JEEP Compass Class: small SUV Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: JEEP Compass Class: small SUV Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: JEEP Grand Cherokee Class: standard SUV Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: JEEP Grand Cherokee Class: standard SUV Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: JEEP Grand Cherokee Class: standard SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: JEEP Grand Cherokee Class: standard SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: JEEP Grand Cherokee Class: standard SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: JEEP Grand Cherokee Class: standard SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: JEEP Patriot Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 4
+Model: JEEP Patriot Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 4
+Model: JEEP Patriot Class: small SUV Pollution Score: 6 MPG: 22 Cylinders: 4
+Model: JEEP Patriot Class: small SUV Pollution Score: 6 MPG: 22 Cylinders: 4
+Model: JEEP Patriot Class: small SUV Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: JEEP Patriot Class: small SUV Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: JEEP Patriot Class: small SUV Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: JEEP Patriot Class: small SUV Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: KIA Cadenza Class: large car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: KIA Cadenza Class: large car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: KIA Forte Class: midsize car Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: KIA Forte Class: midsize car Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: KIA Forte Koup Class: small car Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: KIA Forte Koup Class: small car Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: KIA Forte Koup Class: small car Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: KIA Forte Koup Class: small car Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: KIA Forte Koup Class: small car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: KIA Forte Koup Class: small car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: KIA Forte5 Class: large car Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: KIA Forte5 Class: large car Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: KIA Forte5 Class: large car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: KIA Forte5 Class: large car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: KIA Forte5 Class: large car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: KIA Forte5 Class: large car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: KIA K900 Class: large car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: KIA K900 Class: large car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: KIA K900 Class: large car Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: KIA K900 Class: large car Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: KIA Optima Hybrid Class: midsize car Pollution Score: 6 MPG: 42 Cylinders: 4
+Model: KIA Optima Hybrid Class: midsize car Pollution Score: 6 MPG: 42 Cylinders: 4
+Model: KIA Rio Class: small car Pollution Score: 6 MPG: 30 Cylinders: 4
+Model: KIA Rio Class: small car Pollution Score: 6 MPG: 30 Cylinders: 4
+Model: KIA Rio Class: small car Pollution Score: 6 MPG: 31 Cylinders: 4
+Model: KIA Rio Class: small car Pollution Score: 6 MPG: 31 Cylinders: 4
+Model: KIA Rio ECO Class: small car Pollution Score: 6 MPG: 31 Cylinders: 4
+Model: KIA Rio ECO Class: small car Pollution Score: 6 MPG: 31 Cylinders: 4
+Model: KIA Sedona Class: minivan Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: KIA Sedona Class: minivan Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: KIA Sedona SX Class: minivan Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: KIA Sedona SX Class: minivan Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: KIA Sedona SXL Class: minivan Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: KIA Sedona SXL Class: minivan Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: KIA Sorento Class: small SUV Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: KIA Sorento Class: small SUV Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: KIA Sorento Class: small SUV Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: KIA Sorento Class: small SUV Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: KIA Sorento Class: small SUV Pollution Score: 6 MPG: 22 Cylinders: 4
+Model: KIA Sorento Class: small SUV Pollution Score: 6 MPG: 22 Cylinders: 4
+Model: KIA Sorento Class: small SUV Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: KIA Sorento Class: small SUV Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: KIA Sorento FE Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: KIA Sorento FE Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: KIA Soul Class: station wagon Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: KIA Soul Class: station wagon Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: KIA Soul Class: station wagon Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: KIA Soul Class: station wagon Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: KIA Sportage Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 4
+Model: KIA Sportage Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 4
+Model: KIA Sportage Class: small SUV Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: KIA Sportage Class: small SUV Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: LEXUS ES 350 Class: midsize car Pollution Score: 6 MPG: 24 Cylinders: 6
+Model: LEXUS ES 350 Class: midsize car Pollution Score: 6 MPG: 24 Cylinders: 6
+Model: LEXUS GX 460 Class: standard SUV Pollution Score: 6 MPG: 16 Cylinders: 8
+Model: LEXUS GX 460 Class: standard SUV Pollution Score: 6 MPG: 16 Cylinders: 8
+Model: LEXUS LX 570 Class: standard SUV Pollution Score: 6 MPG: 15 Cylinders: 8
+Model: LINCOLN Continental Class: large car Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: LINCOLN Continental Class: large car Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: LINCOLN Continental Class: large car Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: LINCOLN Continental Class: large car Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: LINCOLN MKC Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 4
+Model: LINCOLN MKC Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 4
+Model: LINCOLN Navigator Class: standard SUV Pollution Score: 6 MPG: 17 Cylinders: 6
+Model: LINCOLN Navigator Class: standard SUV Pollution Score: 6 MPG: 17 Cylinders: 6
+Model: LINCOLN Navigator L Class: standard SUV Pollution Score: 6 MPG: 16 Cylinders: 6
+Model: LINCOLN Navigator L Class: standard SUV Pollution Score: 6 MPG: 17 Cylinders: 6
+Model: MAZDA 2 Class: small car Pollution Score: 6 MPG: 35 Cylinders: 4
+Model: MAZDA 2 Class: small car Pollution Score: 6 MPG: 35 Cylinders: 4
+Model: MAZDA 2 Class: small car Pollution Score: 6 MPG: 34 Cylinders: 4
+Model: MAZDA 2 Class: small car Pollution Score: 6 MPG: 34 Cylinders: 4
+Model: MAZDA CX-3 Class: small car Pollution Score: 6 MPG: 29 Cylinders: 4
+Model: MAZDA CX-3 Class: small car Pollution Score: 6 MPG: 29 Cylinders: 4
+Model: MAZDA CX-3 Class: small car Pollution Score: 6 MPG: 31 Cylinders: 4
+Model: MAZDA CX-3 Class: small car Pollution Score: 6 MPG: 31 Cylinders: 4
+Model: MERCEDES-BENZ AMG CLA45 4Matic Class: small car Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: MERCEDES-BENZ AMG CLA45 4Matic Class: small car Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: MERCEDES-BENZ AMG CLS63 4Matic Class: small car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: MERCEDES-BENZ AMG GLA45 4Matic Class: station wagon Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: MERCEDES-BENZ AMG GLA45 4Matic Class: station wagon Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: MERCEDES-BENZ AMG GLE 43 4Matic Class: standard SUV Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: MERCEDES-BENZ AMG GLE63 Class: standard SUV Pollution Score: 6 MPG: 15 Cylinders: 8
+Model: MERCEDES-BENZ AMG GLE63 S Class: standard SUV Pollution Score: 6 MPG: 15 Cylinders: 8
+Model: MERCEDES-BENZ AMG GLE63 S Class: standard SUV Pollution Score: 6 MPG: 15 Cylinders: 8
+Model: MERCEDES-BENZ AMG GLS63 Class: standard SUV Pollution Score: 6 MPG: 14 Cylinders: 8
+Model: MERCEDES-BENZ AMG S63 4Matic Class: small car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: MERCEDES-BENZ AMG S63 4Matic Class: large car Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: MERCEDES-BENZ AMG S63 4Matic Convertible Class: small car Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: MERCEDES-BENZ AMG S65 Class: large car Pollution Score: 6 MPG: 16 Cylinders: 12
+Model: MERCEDES-BENZ AMG S65 Class: large car Pollution Score: 6 MPG: 16 Cylinders: 12
+Model: MERCEDES-BENZ AMG SL63 Class: small car Pollution Score: 6 MPG: 19 Cylinders: 8
+Model: MERCEDES-BENZ AMG SL65 Class: small car Pollution Score: 6 MPG: 16 Cylinders: 12
+Model: MERCEDES-BENZ AMG SL65 Class: small car Pollution Score: 6 MPG: 16 Cylinders: 12
+Model: MERCEDES-BENZ CLS550 Class: small car Pollution Score: 6 MPG: 21 Cylinders: 8
+Model: MERCEDES-BENZ CLS550 4Matic Class: small car Pollution Score: 6 MPG: 20 Cylinders: 8
+Model: MERCEDES-BENZ E400 Class: small car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: MERCEDES-BENZ E400 4Matic Class: small car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: MERCEDES-BENZ E400 Convertible Class: small car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: MERCEDES-BENZ E550 Class: small car Pollution Score: 6 MPG: 21 Cylinders: 8
+Model: MERCEDES-BENZ E550 Convertible Class: small car Pollution Score: 6 MPG: 20 Cylinders: 8
+Model: MERCEDES-BENZ GLE350 Class: standard SUV Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: MERCEDES-BENZ GLE350 4Matic Class: standard SUV Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: MERCEDES-BENZ GLE350 4Matic Class: standard SUV Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: MERCEDES-BENZ GLE350 4Matic Class: standard SUV Pollution Score: 6 MPG: 14 Cylinders: 6
+Model: MERCEDES-BENZ GLE400 4Matic Class: standard SUV Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: MERCEDES-BENZ GLS450 4Matic Class: standard SUV Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: MERCEDES-BENZ GLS550 4Matic Class: standard SUV Pollution Score: 6 MPG: 16 Cylinders: 8
+Model: MERCEDES-BENZ Maybach S600 Class: large car Pollution Score: 6 MPG: 16 Cylinders: 12
+Model: MERCEDES-BENZ Maybach S600 Class: large car Pollution Score: 6 MPG: 16 Cylinders: 12
+Model: MERCEDES-BENZ S550 Class: small car Pollution Score: 6 MPG: 20 Cylinders: 8
+Model: MERCEDES-BENZ S550 Class: large car Pollution Score: 6 MPG: 20 Cylinders: 8
+Model: MERCEDES-BENZ S550 4Matic Class: small car Pollution Score: 6 MPG: 20 Cylinders: 8
+Model: MERCEDES-BENZ S550 4Matic Class: large car Pollution Score: 6 MPG: 20 Cylinders: 8
+Model: MERCEDES-BENZ S600 Class: large car Pollution Score: 6 MPG: 16 Cylinders: 12
+Model: MERCEDES-BENZ S600 Class: large car Pollution Score: 6 MPG: 16 Cylinders: 12
+Model: MERCEDES-BENZ S65 AMG Class: small car Pollution Score: 6 MPG: 16 Cylinders: 12
+Model: MERCEDES-BENZ S65 AMG Class: small car Pollution Score: 6 MPG: 16 Cylinders: 12
+Model: MERCEDES-BENZ SL450 Class: small car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: MERCEDES-BENZ SL550 Class: small car Pollution Score: 6 MPG: 20 Cylinders: 8
+Model: MERCEDES-BENZ SLC300 Class: small car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: MERCEDES-BENZ SLC300 Class: small car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: MINI John Cooper Works Convertible Class: small car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: MINI John Cooper Works Convertible Class: small car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: MINI John Cooper Works Convertible Class: small car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: MINI John Cooper Works Convertible Class: small car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: MINI John Cooper Works Hardtop Class: small car Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: MINI John Cooper Works Hardtop Class: small car Pollution Score: 6 MPG: 28 Cylinders: 4
+Model: MINI John Cooper Works Hardtop Class: small car Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: MINI John Cooper Works Hardtop Class: small car Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: NISSAN 370Z Class: small car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: NISSAN 370Z Class: small car Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: NISSAN 370Z Class: small car Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: NISSAN 370Z Class: small car Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: NISSAN 370Z Roadster Class: small car Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: NISSAN 370Z Roadster Class: small car Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: NISSAN 370Z Roadster Class: small car Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: NISSAN 370Z Roadster Class: small car Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: NISSAN Armada Class: standard SUV Pollution Score: 6 MPG: 15 Cylinders: 8
+Model: NISSAN Armada Class: standard SUV Pollution Score: 6 MPG: 15 Cylinders: 8
+Model: NISSAN Armada Class: standard SUV Pollution Score: 6 MPG: 16 Cylinders: 8
+Model: NISSAN Armada Class: standard SUV Pollution Score: 6 MPG: 16 Cylinders: 8
+Model: NISSAN GT-R Class: small car Pollution Score: 6 MPG: 18 Cylinders: 6
+Model: NISSAN GT-R Class: small car Pollution Score: 6 MPG: 18 Cylinders: 6
+Model: NISSAN Maxima Class: midsize car Pollution Score: 6 MPG: 25 Cylinders: 6
+Model: NISSAN Maxima Class: midsize car Pollution Score: 6 MPG: 25 Cylinders: 6
+Model: NISSAN Pathfinder 4WD Platinum Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: NISSAN Pathfinder 4WD Platinum Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 6
+Model: NISSAN Titan Class: pickup Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: NISSAN Titan Class: pickup Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: NISSAN Titan Class: pickup Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: NISSAN Titan Class: pickup Pollution Score: 6 MPG: 18 Cylinders: 8
+Model: NISSAN Titan Pro-4X Class: pickup Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: NISSAN Titan Pro-4X Class: pickup Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: NISSAN Versa Class: small car Pollution Score: 6 MPG: 30 Cylinders: 4
+Model: NISSAN Versa Class: small car Pollution Score: 6 MPG: 30 Cylinders: 4
+Model: NISSAN Versa Class: small car Pollution Score: 6 MPG: 34 Cylinders: 4
+Model: NISSAN Versa Class: small car Pollution Score: 6 MPG: 34 Cylinders: 4
+Model: NISSAN Versa Class: small car Pollution Score: 6 MPG: 29 Cylinders: 4
+Model: NISSAN Versa Class: small car Pollution Score: 6 MPG: 29 Cylinders: 4
+Model: PORSCHE Boxster Class: small car Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: PORSCHE Boxster Class: small car Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: PORSCHE Boxster Class: small car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: PORSCHE Boxster Class: small car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: PORSCHE Boxster S Class: small car Pollution Score: 6 MPG: 22 Cylinders: 4
+Model: PORSCHE Boxster S Class: small car Pollution Score: 6 MPG: 22 Cylinders: 4
+Model: PORSCHE Boxster S Class: small car Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: PORSCHE Boxster S Class: small car Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: PORSCHE Cayenne Class: standard SUV Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: PORSCHE Cayenne GTS Class: standard SUV Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: PORSCHE Cayenne Platinum Class: standard SUV Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: PORSCHE Cayenne S Class: standard SUV Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: PORSCHE Cayenne S e-Hybrid Class: standard SUV Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: PORSCHE Macan Class: small SUV Pollution Score: 6 MPG: 22 Cylinders: 4
+Model: PORSCHE Macan GTS Class: small SUV Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: PORSCHE Macan S Class: small SUV Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: RAM 1500 Class: pickup Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: RAM 1500 Class: pickup Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: RAM 1500 Class: pickup Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: RAM 1500 Class: pickup Pollution Score: 6 MPG: 17 Cylinders: 8
+Model: RAM 1500 Class: pickup Pollution Score: 6 MPG: 15 Cylinders: 8
+Model: RAM 1500 Class: pickup Pollution Score: 6 MPG: 15 Cylinders: 8
+Model: RAM 1500 Class: pickup Pollution Score: 6 MPG: 13 Cylinders: 6
+Model: RAM 1500 Class: pickup Pollution Score: 6 MPG: 13 Cylinders: 6
+Model: RAM 1500 Class: pickup Pollution Score: 6 MPG: 14 Cylinders: 6
+Model: RAM 1500 Class: pickup Pollution Score: 6 MPG: 14 Cylinders: 6
+Model: RAM Promaster City Class: special purpose Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: RAM Promaster City Class: special purpose Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: ROLLS-ROYCE Dawn Class: small car Pollution Score: 6 MPG: 14 Cylinders: 12
+Model: ROLLS-ROYCE Dawn Class: small car Pollution Score: 6 MPG: 14 Cylinders: 12
+Model: ROLLS-ROYCE Ghost Class: large car Pollution Score: 6 MPG: 14 Cylinders: 12
+Model: ROLLS-ROYCE Ghost Class: large car Pollution Score: 6 MPG: 14 Cylinders: 12
+Model: ROLLS-ROYCE Ghost EWB Class: large car Pollution Score: 6 MPG: 14 Cylinders: 12
+Model: ROLLS-ROYCE Ghost EWB Class: large car Pollution Score: 6 MPG: 14 Cylinders: 12
+Model: ROLLS-ROYCE Wraith Class: midsize car Pollution Score: 6 MPG: 15 Cylinders: 12
+Model: ROLLS-ROYCE Wraith Class: midsize car Pollution Score: 6 MPG: 15 Cylinders: 12
+Model: SUBARU Legacy Class: midsize car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: SUBARU Legacy Class: midsize car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: SUBARU Outback Class: small SUV Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: SUBARU Outback Class: small SUV Pollution Score: 6 MPG: 22 Cylinders: 6
+Model: TOYOTA Camry Class: midsize car Pollution Score: 6 MPG: 24 Cylinders: 6
+Model: TOYOTA Camry Class: midsize car Pollution Score: 6 MPG: 24 Cylinders: 6
+Model: TOYOTA Camry Class: midsize car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: TOYOTA Camry Class: midsize car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: TOYOTA Camry Class: midsize car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: TOYOTA Camry Class: midsize car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: TOYOTA Corolla Class: midsize car Pollution Score: 6 MPG: 31 Cylinders: 4
+Model: TOYOTA Corolla Class: midsize car Pollution Score: 6 MPG: 31 Cylinders: 4
+Model: TOYOTA Corolla Class: midsize car Pollution Score: 6 MPG: 30 Cylinders: 4
+Model: TOYOTA Corolla Class: midsize car Pollution Score: 6 MPG: 30 Cylinders: 4
+Model: TOYOTA Corolla Class: midsize car Pollution Score: 6 MPG: 32 Cylinders: 4
+Model: TOYOTA Corolla Class: midsize car Pollution Score: 6 MPG: 32 Cylinders: 4
+Model: TOYOTA Land Cruiser Class: standard SUV Pollution Score: 6 MPG: 15 Cylinders: 8
+Model: TOYOTA RAV4 Class: small SUV Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: TOYOTA RAV4 Class: small SUV Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: TOYOTA RAV4 Class: small SUV Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: TOYOTA RAV4 Class: small SUV Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: TOYOTA RAV4 LE/XLE Class: small SUV Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: TOYOTA RAV4 LE/XLE Class: small SUV Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: TOYOTA RAV4 Limited Class: small SUV Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: TOYOTA RAV4 Limited Class: small SUV Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: TOYOTA Tundra Class: pickup Pollution Score: 6 MPG: 15 Cylinders: 8
+Model: TOYOTA Tundra Class: pickup Pollution Score: 6 MPG: 15 Cylinders: 8
+Model: TOYOTA Tundra Class: pickup Pollution Score: 6 MPG: 16 Cylinders: 8
+Model: TOYOTA Tundra Class: pickup Pollution Score: 6 MPG: 16 Cylinders: 8
+Model: TOYOTA Yaris Class: small car Pollution Score: 6 MPG: 33 Cylinders: 4
+Model: TOYOTA Yaris Class: small car Pollution Score: 6 MPG: 33 Cylinders: 4
+Model: TOYOTA Yaris Class: small car Pollution Score: 6 MPG: 32 Cylinders: 4
+Model: TOYOTA Yaris Class: small car Pollution Score: 6 MPG: 32 Cylinders: 4
+Model: TOYOTA Yaris iA Class: small car Pollution Score: 6 MPG: 35 Cylinders: 4
+Model: TOYOTA Yaris iA Class: small car Pollution Score: 6 MPG: 35 Cylinders: 4
+Model: TOYOTA Yaris iA Class: small car Pollution Score: 6 MPG: 34 Cylinders: 4
+Model: TOYOTA Yaris iA Class: small car Pollution Score: 6 MPG: 34 Cylinders: 4
+Model: VOLKSWAGEN CC Class: small car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: VOLKSWAGEN CC Class: small car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: VOLKSWAGEN CC 4Motion Class: small car Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: VOLKSWAGEN CC 4Motion Class: small car Pollution Score: 6 MPG: 20 Cylinders: 6
+Model: VOLKSWAGEN Golf R Class: small car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: VOLKSWAGEN Golf R Class: small car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: VOLKSWAGEN Golf R Class: small car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: VOLKSWAGEN Golf R Class: small car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: VOLKSWAGEN Jetta Class: small car Pollution Score: 6 MPG: 33 Cylinders: 4
+Model: VOLKSWAGEN Jetta Class: small car Pollution Score: 6 MPG: 33 Cylinders: 4
+Model: VOLKSWAGEN Passat Class: midsize car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: VOLKSWAGEN Passat Class: midsize car Pollution Score: 6 MPG: 23 Cylinders: 6
+Model: VOLKSWAGEN Tiguan Class: small SUV Pollution Score: 6 MPG: 22 Cylinders: 4
+Model: VOLKSWAGEN Tiguan Class: small SUV Pollution Score: 6 MPG: 22 Cylinders: 4
+Model: VOLKSWAGEN Tiguan 4Motion Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 4
+Model: VOLKSWAGEN Tiguan 4Motion Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 4
+Model: VOLKSWAGEN Tiguan 4Motion Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 4
+Model: VOLKSWAGEN Tiguan 4Motion Class: small SUV Pollution Score: 6 MPG: 21 Cylinders: 4
+Model: VOLKSWAGEN Touareg Class: standard SUV Pollution Score: 6 MPG: 19 Cylinders: 6
+Model: VOLVO S60 Class: small car Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: VOLVO S60 Class: small car Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: VOLVO S60 Class: small car Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: VOLVO S60 Class: small car Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: VOLVO S60 CC Class: small car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: VOLVO S60 CC Class: small car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: VOLVO S60 Inscription Class: small car Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: VOLVO S60 Inscription Class: small car Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: VOLVO S60 Inscription Class: small car Pollution Score: 6 MPG: 29 Cylinders: 4
+Model: VOLVO S60 Inscription Class: small car Pollution Score: 6 MPG: 29 Cylinders: 4
+Model: VOLVO S90 Class: midsize car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: VOLVO S90 Class: midsize car Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: VOLVO S90 Class: midsize car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: VOLVO S90 Class: midsize car Pollution Score: 6 MPG: 27 Cylinders: 4
+Model: VOLVO V60 Class: station wagon Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: VOLVO V60 Class: station wagon Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: VOLVO V60 Class: station wagon Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: VOLVO V60 Class: station wagon Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: VOLVO V60 Class: station wagon Pollution Score: 6 MPG: 29 Cylinders: 4
+Model: VOLVO V60 Class: station wagon Pollution Score: 6 MPG: 29 Cylinders: 4
+Model: VOLVO V60 CC Class: station wagon Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: VOLVO V60 CC Class: station wagon Pollution Score: 6 MPG: 25 Cylinders: 4
+Model: VOLVO XC 60 Class: small SUV Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: VOLVO XC 60 Class: small SUV Pollution Score: 6 MPG: 22 Cylinders: 4
+Model: VOLVO XC 60 Class: small SUV Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: VOLVO XC 60 Class: small SUV Pollution Score: 6 MPG: 22 Cylinders: 4
+Model: VOLVO XC 60 Class: small SUV Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: VOLVO XC 60 Class: small SUV Pollution Score: 6 MPG: 26 Cylinders: 4
+Model: VOLVO XC 90 Class: standard SUV Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: VOLVO XC 90 Class: standard SUV Pollution Score: 6 MPG: 22 Cylinders: 4
+Model: VOLVO XC 90 Class: standard SUV Pollution Score: 6 MPG: 23 Cylinders: 4
+Model: VOLVO XC 90 Class: standard SUV Pollution Score: 6 MPG: 22 Cylinders: 4
+Model: VOLVO XC 90 Class: standard SUV Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: VOLVO XC 90 Class: standard SUV Pollution Score: 6 MPG: 24 Cylinders: 4
+Model: AUDI A6 Class: midsize car Pollution Score: 7 MPG: 25 Cylinders: 4
+Model: AUDI A6 Class: midsize car Pollution Score: 7 MPG: 25 Cylinders: 4
+Model: AUDI A6 Class: midsize car Pollution Score: 7 MPG: 28 Cylinders: 4
+Model: AUDI A6 Class: midsize car Pollution Score: 7 MPG: 28 Cylinders: 4
+Model: CHEVROLET Silverado 15 Class: pickup Pollution Score: 7 MPG: 13 Cylinders: 6
+Model: CHEVROLET Silverado 15 Class: pickup Pollution Score: 7 MPG: 13 Cylinders: 6
+Model: CHEVROLET Silverado 15 Class: pickup Pollution Score: 7 MPG: 14 Cylinders: 6
+Model: CHEVROLET Silverado 15 Class: pickup Pollution Score: 7 MPG: 14 Cylinders: 6
+Model: CHEVROLET Sonic Class: small car Pollution Score: 7 MPG: 28 Cylinders: 4
+Model: CHEVROLET Sonic Class: small car Pollution Score: 7 MPG: 28 Cylinders: 4
+Model: CHEVROLET Sonic 5 Class: station wagon Pollution Score: 7 MPG: 28 Cylinders: 4
+Model: CHEVROLET Sonic 5 Class: station wagon Pollution Score: 7 MPG: 28 Cylinders: 4
+Model: CHEVROLET Spark Class: small car Pollution Score: 7 MPG: 33 Cylinders: 4
+Model: CHEVROLET Spark Class: small car Pollution Score: 7 MPG: 33 Cylinders: 4
+Model: CHEVROLET Spark Class: small car Pollution Score: 7 MPG: 33 Cylinders: 4
+Model: CHEVROLET Spark Class: small car Pollution Score: 7 MPG: 33 Cylinders: 4
+Model: FORD Escape Class: small SUV Pollution Score: 7 MPG: 23 Cylinders: 4
+Model: FORD Escape Class: small SUV Pollution Score: 7 MPG: 23 Cylinders: 4
+Model: FORD Escape Class: small SUV Pollution Score: 7 MPG: 25 Cylinders: 4
+Model: FORD Escape Class: small SUV Pollution Score: 7 MPG: 25 Cylinders: 4
+Model: FORD Fusion Class: midsize car Pollution Score: 7 MPG: 20 Cylinders: 6
+Model: FORD Fusion Class: midsize car Pollution Score: 7 MPG: 20 Cylinders: 6
+Model: FORD Fusion Class: midsize car Pollution Score: 7 MPG: 25 Cylinders: 4
+Model: FORD Fusion Class: midsize car Pollution Score: 7 MPG: 25 Cylinders: 4
+Model: FORD Fusion Class: midsize car Pollution Score: 7 MPG: 23 Cylinders: 4
+Model: FORD Fusion Class: midsize car Pollution Score: 7 MPG: 23 Cylinders: 4
+Model: FORD Fusion Class: midsize car Pollution Score: 7 MPG: 25 Cylinders: 4
+Model: FORD Fusion Class: midsize car Pollution Score: 7 MPG: 25 Cylinders: 4
+Model: FORD Mustang Class: small car Pollution Score: 7 MPG: 24 Cylinders: 4
+Model: FORD Mustang Class: small car Pollution Score: 7 MPG: 24 Cylinders: 4
+Model: FORD Mustang Convertible Class: small car Pollution Score: 7 MPG: 23 Cylinders: 4
+Model: FORD Mustang Convertible Class: small car Pollution Score: 7 MPG: 23 Cylinders: 4
+Model: FORD Mustang Performance Package Class: small car Pollution Score: 7 MPG: 23 Cylinders: 4
+Model: FORD Mustang Performance Package Class: small car Pollution Score: 7 MPG: 24 Cylinders: 4
+Model: GENESIS G90 Class: large car Pollution Score: 7 MPG: 18 Cylinders: 8
+Model: GENESIS G90 Class: large car Pollution Score: 7 MPG: 18 Cylinders: 8
+Model: GENESIS G90 Class: large car Pollution Score: 7 MPG: 19 Cylinders: 8
+Model: GENESIS G90 Class: large car Pollution Score: 7 MPG: 19 Cylinders: 8
+Model: GMC Sierra 15 Class: pickup Pollution Score: 7 MPG: 13 Cylinders: 6
+Model: GMC Sierra 15 Class: pickup Pollution Score: 7 MPG: 13 Cylinders: 6
+Model: GMC Sierra 15 Class: pickup Pollution Score: 7 MPG: 14 Cylinders: 6
+Model: GMC Sierra 15 Class: pickup Pollution Score: 7 MPG: 14 Cylinders: 6
+Model: HYUNDAI Elantra Class: midsize car Pollution Score: 7 MPG: 32 Cylinders: 4
+Model: HYUNDAI Elantra Class: midsize car Pollution Score: 7 MPG: 32 Cylinders: 4
+Model: HYUNDAI Elantra Class: midsize car Pollution Score: 7 MPG: 29 Cylinders: 4
+Model: HYUNDAI Elantra Class: midsize car Pollution Score: 7 MPG: 29 Cylinders: 4
+Model: HYUNDAI Elantra SE Class: midsize car Pollution Score: 7 MPG: 33 Cylinders: 4
+Model: HYUNDAI Elantra SE Class: midsize car Pollution Score: 7 MPG: 33 Cylinders: 4
+Model: HYUNDAI Santa Fe Sport Class: small SUV Pollution Score: 7 MPG: 22 Cylinders: 4
+Model: HYUNDAI Santa Fe Sport Class: small SUV Pollution Score: 7 MPG: 22 Cylinders: 4
+Model: HYUNDAI Santa Fe Sport Class: small SUV Pollution Score: 7 MPG: 24 Cylinders: 4
+Model: HYUNDAI Santa Fe Sport Class: small SUV Pollution Score: 7 MPG: 24 Cylinders: 4
+Model: HYUNDAI Sonata Class: large car Pollution Score: 7 MPG: 29 Cylinders: 4
+Model: HYUNDAI Sonata Class: large car Pollution Score: 7 MPG: 29 Cylinders: 4
+Model: HYUNDAI Sonata Sport/Limited Class: large car Pollution Score: 7 MPG: 28 Cylinders: 4
+Model: HYUNDAI Sonata Sport/Limited Class: large car Pollution Score: 7 MPG: 28 Cylinders: 4
+Model: KIA Forte Class: midsize car Pollution Score: 7 MPG: 32 Cylinders: 4
+Model: KIA Forte Class: midsize car Pollution Score: 7 MPG: 32 Cylinders: 4
+Model: KIA Forte Class: midsize car Pollution Score: 7 MPG: 28 Cylinders: 4
+Model: KIA Forte Class: midsize car Pollution Score: 7 MPG: 28 Cylinders: 4
+Model: KIA Sorento Class: small SUV Pollution Score: 7 MPG: 22 Cylinders: 4
+Model: KIA Sorento Class: small SUV Pollution Score: 7 MPG: 22 Cylinders: 4
+Model: KIA Sorento Class: small SUV Pollution Score: 7 MPG: 24 Cylinders: 4
+Model: KIA Sorento Class: small SUV Pollution Score: 7 MPG: 24 Cylinders: 4
+Model: KIA Soul Class: station wagon Pollution Score: 7 MPG: 27 Cylinders: 4
+Model: KIA Soul Class: station wagon Pollution Score: 7 MPG: 27 Cylinders: 4
+Model: KIA Sportage Class: small SUV Pollution Score: 7 MPG: 23 Cylinders: 4
+Model: KIA Sportage Class: small SUV Pollution Score: 7 MPG: 23 Cylinders: 4
+Model: KIA Sportage Class: small SUV Pollution Score: 7 MPG: 25 Cylinders: 4
+Model: KIA Sportage Class: small SUV Pollution Score: 7 MPG: 25 Cylinders: 4
+Model: KIA Sportage FE Class: small SUV Pollution Score: 7 MPG: 22 Cylinders: 4
+Model: KIA Sportage FE Class: small SUV Pollution Score: 7 MPG: 22 Cylinders: 4
+Model: KIA Sportage FE Class: small SUV Pollution Score: 7 MPG: 26 Cylinders: 4
+Model: KIA Sportage FE Class: small SUV Pollution Score: 7 MPG: 26 Cylinders: 4
+Model: LEXUS RX 350 Class: small SUV Pollution Score: 7 MPG: 22 Cylinders: 6
+Model: LEXUS RX 350 Class: small SUV Pollution Score: 7 MPG: 22 Cylinders: 6
+Model: LEXUS RX 350 Class: small SUV Pollution Score: 7 MPG: 23 Cylinders: 6
+Model: LEXUS RX 350 Class: small SUV Pollution Score: 7 MPG: 23 Cylinders: 6
+Model: LINCOLN Continental Class: large car Pollution Score: 7 MPG: 19 Cylinders: 6
+Model: LINCOLN Continental Class: large car Pollution Score: 7 MPG: 19 Cylinders: 6
+Model: LINCOLN Continental Class: large car Pollution Score: 7 MPG: 20 Cylinders: 6
+Model: LINCOLN Continental Class: large car Pollution Score: 7 MPG: 20 Cylinders: 6
+Model: LINCOLN Continental Class: large car Pollution Score: 7 MPG: 21 Cylinders: 6
+Model: LINCOLN Continental Class: large car Pollution Score: 7 MPG: 21 Cylinders: 6
+Model: LINCOLN MKC Class: small SUV Pollution Score: 7 MPG: 22 Cylinders: 4
+Model: LINCOLN MKC Class: small SUV Pollution Score: 7 MPG: 21 Cylinders: 4
+Model: LINCOLN MKC Class: small SUV Pollution Score: 7 MPG: 22 Cylinders: 4
+Model: LINCOLN MKC Class: small SUV Pollution Score: 7 MPG: 21 Cylinders: 4
+Model: LINCOLN MKC Class: small SUV Pollution Score: 7 MPG: 23 Cylinders: 4
+Model: LINCOLN MKC Class: small SUV Pollution Score: 7 MPG: 23 Cylinders: 4
+Model: LINCOLN MKZ Class: midsize car Pollution Score: 7 MPG: 20 Cylinders: 6
+Model: LINCOLN MKZ Class: midsize car Pollution Score: 7 MPG: 20 Cylinders: 6
+Model: LINCOLN MKZ Class: midsize car Pollution Score: 7 MPG: 21 Cylinders: 6
+Model: LINCOLN MKZ Class: midsize car Pollution Score: 7 MPG: 21 Cylinders: 6
+Model: LINCOLN MKZ Class: midsize car Pollution Score: 7 MPG: 23 Cylinders: 4
+Model: LINCOLN MKZ Class: midsize car Pollution Score: 7 MPG: 23 Cylinders: 4
+Model: LINCOLN MKZ Class: midsize car Pollution Score: 7 MPG: 24 Cylinders: 4
+Model: LINCOLN MKZ Class: midsize car Pollution Score: 7 MPG: 24 Cylinders: 4
+Model: MERCEDES-BENZ AMG C63 Class: small car Pollution Score: 7 MPG: 20 Cylinders: 8
+Model: MERCEDES-BENZ AMG C63 Class: small car Pollution Score: 7 MPG: 19 Cylinders: 8
+Model: MERCEDES-BENZ AMG C63 Class: small car Pollution Score: 7 MPG: 20 Cylinders: 8
+Model: MERCEDES-BENZ AMG C63 Class: small car Pollution Score: 7 MPG: 19 Cylinders: 8
+Model: MERCEDES-BENZ AMG C63 S Class: small car Pollution Score: 7 MPG: 20 Cylinders: 8
+Model: MERCEDES-BENZ AMG C63 S Class: small car Pollution Score: 7 MPG: 19 Cylinders: 8
+Model: MERCEDES-BENZ AMG C63 S Class: small car Pollution Score: 7 MPG: 20 Cylinders: 8
+Model: MERCEDES-BENZ AMG C63 S Class: small car Pollution Score: 7 MPG: 19 Cylinders: 8
+Model: MERCEDES-BENZ AMG GT Class: small car Pollution Score: 7 MPG: 18 Cylinders: 8
+Model: MERCEDES-BENZ AMG GT Class: small car Pollution Score: 7 MPG: 18 Cylinders: 8
+Model: MERCEDES-BENZ AMG GT S Class: small car Pollution Score: 7 MPG: 18 Cylinders: 8
+Model: MERCEDES-BENZ AMG GT S Class: small car Pollution Score: 7 MPG: 18 Cylinders: 8
+Model: MERCEDES-BENZ AMG SLC 43 Class: small car Pollution Score: 7 MPG: 23 Cylinders: 6
+Model: MERCEDES-BENZ C300 Class: small car Pollution Score: 7 MPG: 28 Cylinders: 4
+Model: MERCEDES-BENZ C300 Class: small car Pollution Score: 7 MPG: 26 Cylinders: 4
+Model: MERCEDES-BENZ C300 Class: small car Pollution Score: 7 MPG: 28 Cylinders: 4
+Model: MERCEDES-BENZ C300 Class: small car Pollution Score: 7 MPG: 26 Cylinders: 4
+Model: MERCEDES-BENZ C300 4Matic Class: small car Pollution Score: 7 MPG: 27 Cylinders: 4
+Model: MERCEDES-BENZ C300 4Matic Class: small car Pollution Score: 7 MPG: 25 Cylinders: 4
+Model: MERCEDES-BENZ C300 4Matic Class: small car Pollution Score: 7 MPG: 27 Cylinders: 4
+Model: MERCEDES-BENZ C300 4Matic Class: small car Pollution Score: 7 MPG: 25 Cylinders: 4
+Model: MERCEDES-BENZ E300 Class: midsize car Pollution Score: 7 MPG: 25 Cylinders: 4
+Model: MERCEDES-BENZ E300 Class: midsize car Pollution Score: 7 MPG: 25 Cylinders: 4
+Model: MERCEDES-BENZ E300 4Matic Class: midsize car Pollution Score: 7 MPG: 24 Cylinders: 4
+Model: MERCEDES-BENZ E300 4Matic Class: midsize car Pollution Score: 7 MPG: 24 Cylinders: 4
+Model: MERCEDES-BENZ GLA 250 Class: station wagon Pollution Score: 7 MPG: 27 Cylinders: 4
+Model: MERCEDES-BENZ GLA 250 Class: station wagon Pollution Score: 7 MPG: 27 Cylinders: 4
+Model: MERCEDES-BENZ GLA250 4Matic Class: small SUV Pollution Score: 7 MPG: 26 Cylinders: 4
+Model: MERCEDES-BENZ GLA250 4Matic Class: small SUV Pollution Score: 7 MPG: 26 Cylinders: 4
+Model: MERCEDES-BENZ GLA250 4Matic Class: small SUV Pollution Score: 7 MPG: 19 Cylinders: 4
+Model: MERCEDES-BENZ GLA250 4Matic Class: small SUV Pollution Score: 7 MPG: 19 Cylinders: 4
+Model: MERCEDES-BENZ GLC 300 Class: small SUV Pollution Score: 7 MPG: 24 Cylinders: 4
+Model: MERCEDES-BENZ GLC 300 Class: small SUV Pollution Score: 7 MPG: 24 Cylinders: 4
+Model: MERCEDES-BENZ GLC 300 4Matic Class: small SUV Pollution Score: 7 MPG: 24 Cylinders: 4
+Model: MERCEDES-BENZ GLC 300 4Matic Class: small SUV Pollution Score: 7 MPG: 24 Cylinders: 4
+Model: MITSUBISHI Mirage Class: small car Pollution Score: 7 MPG: 36 Cylinders: 3
+Model: MITSUBISHI Mirage Class: small car Pollution Score: 7 MPG: 36 Cylinders: 3
+Model: MITSUBISHI Mirage Class: small car Pollution Score: 7 MPG: 39 Cylinders: 3
+Model: MITSUBISHI Mirage Class: small car Pollution Score: 7 MPG: 39 Cylinders: 3
+Model: MITSUBISHI Mirage G4 Class: small car Pollution Score: 7 MPG: 35 Cylinders: 3
+Model: MITSUBISHI Mirage G4 Class: small car Pollution Score: 7 MPG: 35 Cylinders: 3
+Model: MITSUBISHI Mirage G4 Class: small car Pollution Score: 7 MPG: 37 Cylinders: 3
+Model: MITSUBISHI Mirage G4 Class: small car Pollution Score: 7 MPG: 37 Cylinders: 3
+Model: NISSAN Pathfinder Class: small SUV Pollution Score: 7 MPG: 22 Cylinders: 6
+Model: NISSAN Pathfinder Class: small SUV Pollution Score: 7 MPG: 22 Cylinders: 6
+Model: NISSAN Pathfinder Class: small SUV Pollution Score: 7 MPG: 23 Cylinders: 6
+Model: NISSAN Pathfinder Class: small SUV Pollution Score: 7 MPG: 23 Cylinders: 6
+Model: SMART ForTwo Convertible Class: small car Pollution Score: 7 MPG: 34 Cylinders: 3
+Model: SMART ForTwo Convertible Class: small car Pollution Score: 7 MPG: 34 Cylinders: 3
+Model: SMART ForTwo Convertible Class: small car Pollution Score: 7 MPG: 35 Cylinders: 3
+Model: SMART ForTwo Convertible Class: small car Pollution Score: 7 MPG: 35 Cylinders: 3
+Model: SUBARU Crosstrek Class: small SUV Pollution Score: 7 MPG: 29 Cylinders: 4
+Model: SUBARU Crosstrek Class: small SUV Pollution Score: 7 MPG: 26 Cylinders: 4
+Model: SUBARU Forester Class: small SUV Pollution Score: 7 MPG: 24 Cylinders: 4
+Model: SUBARU Forester Class: small SUV Pollution Score: 7 MPG: 28 Cylinders: 4
+Model: SUBARU Legacy Class: midsize car Pollution Score: 7 MPG: 29 Cylinders: 4
+Model: SUBARU Outback Class: small SUV Pollution Score: 7 MPG: 28 Cylinders: 4
+Model: TOYOTA Corolla LE Eco Class: midsize car Pollution Score: 7 MPG: 34 Cylinders: 4
+Model: TOYOTA Corolla LE Eco Class: midsize car Pollution Score: 7 MPG: 33 Cylinders: 4
+Model: TOYOTA Corolla LE Eco Class: midsize car Pollution Score: 7 MPG: 34 Cylinders: 4
+Model: TOYOTA Corolla LE Eco Class: midsize car Pollution Score: 7 MPG: 33 Cylinders: 4
+Model: TOYOTA Corolla iM Class: midsize car Pollution Score: 7 MPG: 31 Cylinders: 4
+Model: TOYOTA Corolla iM Class: midsize car Pollution Score: 7 MPG: 31 Cylinders: 4
+Model: TOYOTA Corolla iM Class: midsize car Pollution Score: 7 MPG: 30 Cylinders: 4
+Model: TOYOTA Corolla iM Class: midsize car Pollution Score: 7 MPG: 30 Cylinders: 4
+Model: TOYOTA Sienna Class: minivan Pollution Score: 7 MPG: 20 Cylinders: 6
+Model: TOYOTA Sienna Class: minivan Pollution Score: 7 MPG: 20 Cylinders: 6
+Model: TOYOTA Sienna Class: minivan Pollution Score: 7 MPG: 22 Cylinders: 6
+Model: TOYOTA Sienna Class: minivan Pollution Score: 7 MPG: 22 Cylinders: 6
+Model: TOYOTA Tacoma Class: pickup Pollution Score: 7 MPG: 20 Cylinders: 6
+Model: TOYOTA Tacoma Class: pickup Pollution Score: 7 MPG: 20 Cylinders: 6
+Model: TOYOTA Tacoma Class: pickup Pollution Score: 7 MPG: 21 Cylinders: 6
+Model: TOYOTA Tacoma Class: pickup Pollution Score: 7 MPG: 21 Cylinders: 6
+Model: TOYOTA Tacoma Class: pickup Pollution Score: 7 MPG: 18 Cylinders: 6
+Model: TOYOTA Tacoma Class: pickup Pollution Score: 7 MPG: 18 Cylinders: 6
+Model: TOYOTA Tacoma Class: pickup Pollution Score: 7 MPG: 18 Cylinders: 6
+Model: TOYOTA Tacoma Class: pickup Pollution Score: 7 MPG: 18 Cylinders: 6
+Model: TOYOTA Tacoma Class: pickup Pollution Score: 7 MPG: 20 Cylinders: 4
+Model: TOYOTA Tacoma Class: pickup Pollution Score: 7 MPG: 20 Cylinders: 4
+Model: TOYOTA Tacoma Class: pickup Pollution Score: 7 MPG: 21 Cylinders: 4
+Model: TOYOTA Tacoma Class: pickup Pollution Score: 7 MPG: 21 Cylinders: 4
+Model: TOYOTA Tacoma Class: pickup Pollution Score: 7 MPG: 20 Cylinders: 4
+Model: TOYOTA Tacoma Class: pickup Pollution Score: 7 MPG: 20 Cylinders: 4
+Model: VOLKSWAGEN Jetta Class: small car Pollution Score: 7 MPG: 32 Cylinders: 4
+Model: VOLKSWAGEN Jetta Class: small car Pollution Score: 7 MPG: 32 Cylinders: 4
+Model: ACURA RLX Class: midsize car Pollution Score: 8 MPG: 29 Cylinders: 6
+Model: ACURA RLX Class: midsize car Pollution Score: 8 MPG: 29 Cylinders: 6
+Model: AUDI A3 Class: small car Pollution Score: 8 MPG: 27 Cylinders: 4
+Model: AUDI TT Coupe Class: small car Pollution Score: 8 MPG: 26 Cylinders: 4
+Model: AUDI TT Roadster Class: small car Pollution Score: 8 MPG: 26 Cylinders: 4
+Model: BMW 230i Convertible Class: small car Pollution Score: 8 MPG: 27 Cylinders: 4
+Model: BMW 230i Coupe Class: small car Pollution Score: 8 MPG: 25 Cylinders: 4
+Model: BMW 230i xDrive Convertible Class: small car Pollution Score: 8 MPG: 26 Cylinders: 4
+Model: BMW 230i xDrive Coupe Class: small car Pollution Score: 8 MPG: 27 Cylinders: 4
+Model: BMW 330i Class: small car Pollution Score: 8 MPG: 26 Cylinders: 4
+Model: BMW 330i Class: small car Pollution Score: 8 MPG: 27 Cylinders: 4
+Model: BMW 330i Class: small car Pollution Score: 8 MPG: 25 Cylinders: 4
+Model: BMW 330i Gran Turismo Class: large car Pollution Score: 8 MPG: 26 Cylinders: 4
+Model: BMW 330i Sports Wagon Class: station wagon Pollution Score: 8 MPG: 26 Cylinders: 4
+Model: BMW 430i Convertible Class: small car Pollution Score: 8 MPG: 26 Cylinders: 4
+Model: BMW 430i Convertible Class: small car Pollution Score: 8 MPG: 27 Cylinders: 4
+Model: BMW 430i Coupe Class: small car Pollution Score: 8 MPG: 26 Cylinders: 4
+Model: BMW 430i Coupe Class: small car Pollution Score: 8 MPG: 27 Cylinders: 4
+Model: BMW 430i Coupe Class: small car Pollution Score: 8 MPG: 25 Cylinders: 4
+Model: BMW 430i Gran Coupe Class: small car Pollution Score: 8 MPG: 26 Cylinders: 4
+Model: BMW 430i Gran Coupe Class: small car Pollution Score: 8 MPG: 27 Cylinders: 4
+Model: BMW X1 sDrive28i Class: large car Pollution Score: 8 MPG: 26 Cylinders: 4
+Model: BMW X1 sDrive28i Class: large car Pollution Score: 8 MPG: 26 Cylinders: 4
+Model: BMW X1 xDrive28i Class: large car Pollution Score: 8 MPG: 25 Cylinders: 4
+Model: BMW X1 xDrive28i Class: large car Pollution Score: 8 MPG: 25 Cylinders: 4
+Model: BMW i3 REx Class: small car Pollution Score: 8 MPG: 35 Cylinders: 2
+Model: CADILLAC XTS Class: large car Pollution Score: 8 MPG: 22 Cylinders: 6
+Model: CADILLAC XTS Class: large car Pollution Score: 8 MPG: 22 Cylinders: 6
+Model: CHEVROLET Impala Class: large car Pollution Score: 8 MPG: 22 Cylinders: 6
+Model: CHEVROLET Impala Class: large car Pollution Score: 8 MPG: 22 Cylinders: 6
+Model: CHEVROLET Sonic Class: small car Pollution Score: 8 MPG: 28 Cylinders: 4
+Model: CHEVROLET Sonic Class: small car Pollution Score: 8 MPG: 28 Cylinders: 4
+Model: CHEVROLET Sonic 5 Class: station wagon Pollution Score: 8 MPG: 28 Cylinders: 4
+Model: CHEVROLET Sonic 5 Class: station wagon Pollution Score: 8 MPG: 28 Cylinders: 4
+Model: CHEVROLET Volt Class: small car Pollution Score: 8 MPG: 42 Cylinders: 4
+Model: CHEVROLET Volt Class: small car Pollution Score: 8 MPG: 42 Cylinders: 4
+Model: FORD Fusion Class: midsize car Pollution Score: 8 MPG: 27 Cylinders: 4
+Model: FORD Fusion Energi Plug-in Hybrid Class: midsize car Pollution Score: 8 MPG: 42 Cylinders: 4
+Model: FORD Fusion Energi Plug-in Hybrid Class: midsize car Pollution Score: 8 MPG: 42 Cylinders: 4
+Model: FORD Fusion Hybrid Class: midsize car Pollution Score: 8 MPG: 42 Cylinders: 4
+Model: FORD Fusion Hybrid Class: midsize car Pollution Score: 8 MPG: 42 Cylinders: 4
+Model: HONDA Accord Class: midsize car Pollution Score: 8 MPG: 25 Cylinders: 6
+Model: HONDA Accord Class: midsize car Pollution Score: 8 MPG: 29 Cylinders: 4
+Model: HONDA Accord Class: midsize car Pollution Score: 8 MPG: 29 Cylinders: 4
+Model: HONDA Accord Class: midsize car Pollution Score: 8 MPG: 29 Cylinders: 4
+Model: HONDA Accord Class: midsize car Pollution Score: 8 MPG: 30 Cylinders: 4
+Model: HONDA Accord Class: midsize car Pollution Score: 8 MPG: 30 Cylinders: 4
+Model: HONDA Accord Class: midsize car Pollution Score: 8 MPG: 30 Cylinders: 4
+Model: HONDA Accord Class: midsize car Pollution Score: 8 MPG: 48 Cylinders: 4
+Model: HYUNDAI Elantra Class: midsize car Pollution Score: 8 MPG: 32 Cylinders: 4
+Model: HYUNDAI Elantra SE Class: midsize car Pollution Score: 8 MPG: 33 Cylinders: 4
+Model: HYUNDAI Sonata Class: large car Pollution Score: 8 MPG: 29 Cylinders: 4
+Model: HYUNDAI Sonata Sport/Limited Class: large car Pollution Score: 8 MPG: 28 Cylinders: 4
+Model: HYUNDAI Sonata plug-in hybrid Class: midsize car Pollution Score: 8 MPG: 39 Cylinders: 4
+Model: JAGUAR F-Pace Class: small SUV Pollution Score: 8 MPG: 20 Cylinders: 6
+Model: JAGUAR F-Type Convertible Class: small car Pollution Score: 8 MPG: 23 Cylinders: 6
+Model: JAGUAR F-Type Convertible Class: small car Pollution Score: 8 MPG: 19 Cylinders: 6
+Model: JAGUAR F-Type Coupe Class: small car Pollution Score: 8 MPG: 23 Cylinders: 6
+Model: JAGUAR F-Type Coupe Class: small car Pollution Score: 8 MPG: 19 Cylinders: 6
+Model: JAGUAR F-Type S Convertible Class: small car Pollution Score: 8 MPG: 21 Cylinders: 6
+Model: JAGUAR F-Type S Convertible Class: small car Pollution Score: 8 MPG: 22 Cylinders: 6
+Model: JAGUAR F-Type S Convertible Class: small car Pollution Score: 8 MPG: 18 Cylinders: 6
+Model: JAGUAR F-Type S Coupe Class: small car Pollution Score: 8 MPG: 21 Cylinders: 6
+Model: JAGUAR F-Type S Coupe Class: small car Pollution Score: 8 MPG: 22 Cylinders: 6
+Model: JAGUAR F-Type S Coupe Class: small car Pollution Score: 8 MPG: 18 Cylinders: 6
+Model: JAGUAR XE Class: small car Pollution Score: 8 MPG: 23 Cylinders: 6
+Model: JAGUAR XE Class: small car Pollution Score: 8 MPG: 24 Cylinders: 6
+Model: JAGUAR XF Class: midsize car Pollution Score: 8 MPG: 23 Cylinders: 6
+Model: JAGUAR XF Class: midsize car Pollution Score: 8 MPG: 23 Cylinders: 6
+Model: KIA Forte Class: midsize car Pollution Score: 8 MPG: 28 Cylinders: 4
+Model: KIA Forte Class: midsize car Pollution Score: 8 MPG: 32 Cylinders: 4
+Model: KIA Optima plug-in hybrid Class: midsize car Pollution Score: 8 MPG: 40 Cylinders: 4
+Model: KIA Soul Class: station wagon Pollution Score: 8 MPG: 27 Cylinders: 4
+Model: KIA Sportage Class: small SUV Pollution Score: 8 MPG: 23 Cylinders: 4
+Model: KIA Sportage Class: small SUV Pollution Score: 8 MPG: 23 Cylinders: 4
+Model: KIA Sportage Class: small SUV Pollution Score: 8 MPG: 25 Cylinders: 4
+Model: KIA Sportage Class: small SUV Pollution Score: 8 MPG: 25 Cylinders: 4
+Model: KIA Sportage FE Class: small SUV Pollution Score: 8 MPG: 22 Cylinders: 4
+Model: KIA Sportage FE Class: small SUV Pollution Score: 8 MPG: 22 Cylinders: 4
+Model: KIA Sportage FE Class: small SUV Pollution Score: 8 MPG: 26 Cylinders: 4
+Model: KIA Sportage FE Class: small SUV Pollution Score: 8 MPG: 26 Cylinders: 4
+Model: LAND ROVER Discovery Sport Class: small SUV Pollution Score: 8 MPG: 22 Cylinders: 4
+Model: LAND ROVER Range Rover Evoque Class: small SUV Pollution Score: 8 MPG: 24 Cylinders: 4
+Model: LAND ROVER Range Rover Evoque Cabriolet Class: small SUV Pollution Score: 8 MPG: 23 Cylinders: 4
+Model: LEXUS CT 200h Class: small car Pollution Score: 8 MPG: 42 Cylinders: 4
+Model: LEXUS CT 200h Class: small car Pollution Score: 8 MPG: 42 Cylinders: 4
+Model: LEXUS ES 300h Class: midsize car Pollution Score: 8 MPG: 40 Cylinders: 4
+Model: LEXUS RX 450h Class: standard SUV Pollution Score: 8 MPG: 30 Cylinders: 6
+Model: LEXUS RX 450h Class: standard SUV Pollution Score: 8 MPG: 30 Cylinders: 6
+Model: LINCOLN MKZ Hybrid Class: midsize car Pollution Score: 8 MPG: 40 Cylinders: 4
+Model: LINCOLN MKZ Hybrid Class: midsize car Pollution Score: 8 MPG: 40 Cylinders: 4
+Model: MAZDA 6 Class: midsize car Pollution Score: 8 MPG: 30 Cylinders: 4
+Model: MAZDA 6 Class: midsize car Pollution Score: 8 MPG: 29 Cylinders: 4
+Model: MAZDA 6 Class: midsize car Pollution Score: 8 MPG: 28 Cylinders: 4
+Model: MINI Cooper Clubman Class: midsize car Pollution Score: 8 MPG: 28 Cylinders: 4
+Model: MINI Cooper Clubman Class: midsize car Pollution Score: 8 MPG: 28 Cylinders: 4
+Model: MINI Cooper Convertible Class: small car Pollution Score: 8 MPG: 30 Cylinders: 4
+Model: MINI Cooper Convertible Class: small car Pollution Score: 8 MPG: 32 Cylinders: 4
+Model: MINI Cooper Hardtop Class: small car Pollution Score: 8 MPG: 30 Cylinders: 4
+Model: MINI Cooper Hardtop Class: small car Pollution Score: 8 MPG: 32 Cylinders: 4
+Model: MINI Cooper Hardtop Class: small car Pollution Score: 8 MPG: 32 Cylinders: 4
+Model: MINI Cooper S Clubman Class: midsize car Pollution Score: 8 MPG: 27 Cylinders: 4
+Model: MINI Cooper S Clubman  Class: midsize car Pollution Score: 8 MPG: 26 Cylinders: 4
+Model: MINI Cooper S Clubman  Class: midsize car Pollution Score: 8 MPG: 24 Cylinders: 4
+Model: MINI Cooper S Convertible Class: small car Pollution Score: 8 MPG: 28 Cylinders: 4
+Model: MINI Cooper S Convertible Class: small car Pollution Score: 8 MPG: 26 Cylinders: 4
+Model: MINI Cooper S Hardtop Class: small car Pollution Score: 8 MPG: 28 Cylinders: 4
+Model: MINI Cooper S Hardtop Class: small car Pollution Score: 8 MPG: 26 Cylinders: 4
+Model: TOYOTA Camry Hybrid LE Class: midsize car Pollution Score: 8 MPG: 40 Cylinders: 4
+Model: TOYOTA Camry Hybrid XLE/SE Class: midsize car Pollution Score: 8 MPG: 38 Cylinders: 4
+Model: TOYOTA Prius Class: midsize car Pollution Score: 8 MPG: 52 Cylinders: 4
+Model: TOYOTA Prius Class: midsize car Pollution Score: 8 MPG: 52 Cylinders: 4
+Model: TOYOTA Prius Eco Class: midsize car Pollution Score: 8 MPG: 56 Cylinders: 4
+Model: TOYOTA Prius v Class: station wagon Pollution Score: 8 MPG: 41 Cylinders: 4
+Model: TOYOTA Prius v Class: station wagon Pollution Score: 8 MPG: 41 Cylinders: 4
+Model: TOYOTA RAV4 Hybrid Class: small SUV Pollution Score: 8 MPG: 32 Cylinders: 4
+Model: TOYOTA RAV4 Hybrid Class: small SUV Pollution Score: 8 MPG: 32 Cylinders: 4
+Model: VOLKSWAGEN CC Class: small car Pollution Score: 8 MPG: 25 Cylinders: 4
+Model: VOLKSWAGEN GTI Class: small car Pollution Score: 8 MPG: 28 Cylinders: 4
+Model: VOLKSWAGEN GTI Class: small car Pollution Score: 8 MPG: 27 Cylinders: 4
+Model: VOLKSWAGEN Golf Class: small car Pollution Score: 8 MPG: 29 Cylinders: 4
+Model: VOLKSWAGEN Golf Class: small car Pollution Score: 8 MPG: 29 Cylinders: 4
+Model: VOLKSWAGEN Golf SportWagen Class: station wagon Pollution Score: 8 MPG: 29 Cylinders: 4
+Model: VOLKSWAGEN Golf SportWagen Class: station wagon Pollution Score: 8 MPG: 28 Cylinders: 4
+Model: VOLKSWAGEN Jetta Class: small car Pollution Score: 8 MPG: 27 Cylinders: 4
+Model: VOLKSWAGEN Jetta Class: small car Pollution Score: 8 MPG: 27 Cylinders: 4
+Model: VOLKSWAGEN Jetta Class: small car Pollution Score: 8 MPG: 29 Cylinders: 4
+Model: VOLKSWAGEN Passat Class: midsize car Pollution Score: 8 MPG: 27 Cylinders: 4
+Model: VOLVO S60 Class: small car Pollution Score: 8 MPG: 29 Cylinders: 4
+Model: VOLVO S60 Class: small car Pollution Score: 8 MPG: 29 Cylinders: 4
+Model: VOLVO XC 90 Class: standard SUV Pollution Score: 8 MPG: 25 Cylinders: 4
+Model: AUDI A3 Class: small car Pollution Score: 9 MPG: 27 Cylinders: 4
+Model: AUDI TT Coupe Class: small car Pollution Score: 9 MPG: 26 Cylinders: 4
+Model: AUDI TT Roadster Class: small car Pollution Score: 9 MPG: 26 Cylinders: 4
+Model: BMW 230i Convertible Class: small car Pollution Score: 9 MPG: 27 Cylinders: 4
+Model: BMW 230i Coupe Class: small car Pollution Score: 9 MPG: 25 Cylinders: 4
+Model: BMW 230i xDrive Convertible Class: small car Pollution Score: 9 MPG: 26 Cylinders: 4
+Model: BMW 230i xDrive Coupe Class: small car Pollution Score: 9 MPG: 27 Cylinders: 4
+Model: BMW 330i Class: small car Pollution Score: 9 MPG: 26 Cylinders: 4
+Model: BMW 330i Class: small car Pollution Score: 9 MPG: 27 Cylinders: 4
+Model: BMW 330i Class: small car Pollution Score: 9 MPG: 25 Cylinders: 4
+Model: BMW 330i Gran Turismo Class: large car Pollution Score: 9 MPG: 26 Cylinders: 4
+Model: BMW 330i Sports Wagon Class: station wagon Pollution Score: 9 MPG: 26 Cylinders: 4
+Model: BMW 430i Convertible Class: small car Pollution Score: 9 MPG: 26 Cylinders: 4
+Model: BMW 430i Convertible Class: small car Pollution Score: 9 MPG: 27 Cylinders: 4
+Model: BMW 430i Coupe Class: small car Pollution Score: 9 MPG: 26 Cylinders: 4
+Model: BMW 430i Coupe Class: small car Pollution Score: 9 MPG: 27 Cylinders: 4
+Model: BMW 430i Coupe Class: small car Pollution Score: 9 MPG: 25 Cylinders: 4
+Model: BMW 430i Gran Coupe Class: small car Pollution Score: 9 MPG: 26 Cylinders: 4
+Model: BMW 430i Gran Coupe Class: small car Pollution Score: 9 MPG: 27 Cylinders: 4
+Model: BMW i3 REx Class: small car Pollution Score: 9 MPG: 35 Cylinders: 2
+Model: CHRYSLER 200 Class: midsize car Pollution Score: 9 MPG: 27 Cylinders: 4
+Model: FORD Fusion Class: midsize car Pollution Score: 9 MPG: 27 Cylinders: 4
+Model: HONDA Accord Class: midsize car Pollution Score: 9 MPG: 25 Cylinders: 6
+Model: HONDA Accord Class: midsize car Pollution Score: 9 MPG: 29 Cylinders: 4
+Model: HONDA Accord Class: midsize car Pollution Score: 9 MPG: 30 Cylinders: 4
+Model: HONDA Accord Class: midsize car Pollution Score: 9 MPG: 48 Cylinders: 4
+Model: HYUNDAI Elantra Class: midsize car Pollution Score: 9 MPG: 32 Cylinders: 4
+Model: HYUNDAI Elantra SE Class: midsize car Pollution Score: 9 MPG: 33 Cylinders: 4
+Model: HYUNDAI Sonata Class: large car Pollution Score: 9 MPG: 29 Cylinders: 4
+Model: HYUNDAI Sonata Sport/Limited Class: large car Pollution Score: 9 MPG: 28 Cylinders: 4
+Model: HYUNDAI Sonata plug-in hybrid Class: midsize car Pollution Score: 9 MPG: 39 Cylinders: 4
+Model: JAGUAR F-Pace Class: small SUV Pollution Score: 9 MPG: 20 Cylinders: 6
+Model: JAGUAR F-Type Convertible Class: small car Pollution Score: 9 MPG: 23 Cylinders: 6
+Model: JAGUAR F-Type Convertible Class: small car Pollution Score: 9 MPG: 19 Cylinders: 6
+Model: JAGUAR F-Type Coupe Class: small car Pollution Score: 9 MPG: 23 Cylinders: 6
+Model: JAGUAR F-Type Coupe Class: small car Pollution Score: 9 MPG: 19 Cylinders: 6
+Model: JAGUAR F-Type S Convertible Class: small car Pollution Score: 9 MPG: 21 Cylinders: 6
+Model: JAGUAR F-Type S Convertible Class: small car Pollution Score: 9 MPG: 22 Cylinders: 6
+Model: JAGUAR F-Type S Convertible Class: small car Pollution Score: 9 MPG: 18 Cylinders: 6
+Model: JAGUAR F-Type S Coupe Class: small car Pollution Score: 9 MPG: 21 Cylinders: 6
+Model: JAGUAR F-Type S Coupe Class: small car Pollution Score: 9 MPG: 22 Cylinders: 6
+Model: JAGUAR F-Type S Coupe Class: small car Pollution Score: 9 MPG: 18 Cylinders: 6
+Model: JAGUAR XE Class: small car Pollution Score: 9 MPG: 23 Cylinders: 6
+Model: JAGUAR XE Class: small car Pollution Score: 9 MPG: 24 Cylinders: 6
+Model: JAGUAR XF Class: midsize car Pollution Score: 9 MPG: 23 Cylinders: 6
+Model: JAGUAR XF Class: midsize car Pollution Score: 9 MPG: 23 Cylinders: 6
+Model: JEEP Cherokee Class: small SUV Pollution Score: 9 MPG: 23 Cylinders: 4
+Model: JEEP Cherokee Class: small SUV Pollution Score: 9 MPG: 25 Cylinders: 4
+Model: KIA Forte Class: midsize car Pollution Score: 9 MPG: 28 Cylinders: 4
+Model: KIA Forte Class: midsize car Pollution Score: 9 MPG: 32 Cylinders: 4
+Model: KIA Optima plug-in hybrid Class: midsize car Pollution Score: 9 MPG: 40 Cylinders: 4
+Model: KIA Soul Class: station wagon Pollution Score: 9 MPG: 27 Cylinders: 4
+Model: LAND ROVER Discovery Sport Class: small SUV Pollution Score: 9 MPG: 22 Cylinders: 4
+Model: LAND ROVER Range Rover Evoque Class: small SUV Pollution Score: 9 MPG: 24 Cylinders: 4
+Model: LAND ROVER Range Rover Evoque Cabriolet Class: small SUV Pollution Score: 9 MPG: 23 Cylinders: 4
+Model: LEXUS ES 300h Class: midsize car Pollution Score: 9 MPG: 40 Cylinders: 4
+Model: MAZDA 6 Class: midsize car Pollution Score: 9 MPG: 30 Cylinders: 4
+Model: MAZDA 6 Class: midsize car Pollution Score: 9 MPG: 29 Cylinders: 4
+Model: MAZDA 6 Class: midsize car Pollution Score: 9 MPG: 28 Cylinders: 4
+Model: MINI Cooper Clubman Class: midsize car Pollution Score: 9 MPG: 28 Cylinders: 4
+Model: MINI Cooper Clubman Class: midsize car Pollution Score: 9 MPG: 28 Cylinders: 4
+Model: MINI Cooper Convertible Class: small car Pollution Score: 9 MPG: 30 Cylinders: 4
+Model: MINI Cooper Convertible Class: small car Pollution Score: 9 MPG: 32 Cylinders: 4
+Model: MINI Cooper Hardtop Class: small car Pollution Score: 9 MPG: 30 Cylinders: 4
+Model: MINI Cooper Hardtop Class: small car Pollution Score: 9 MPG: 32 Cylinders: 4
+Model: MINI Cooper Hardtop Class: small car Pollution Score: 9 MPG: 32 Cylinders: 4
+Model: MINI Cooper S Clubman Class: midsize car Pollution Score: 9 MPG: 27 Cylinders: 4
+Model: MINI Cooper S Clubman  Class: midsize car Pollution Score: 9 MPG: 26 Cylinders: 4
+Model: MINI Cooper S Clubman  Class: midsize car Pollution Score: 9 MPG: 24 Cylinders: 4
+Model: MINI Cooper S Convertible Class: small car Pollution Score: 9 MPG: 28 Cylinders: 4
+Model: MINI Cooper S Convertible Class: small car Pollution Score: 9 MPG: 26 Cylinders: 4
+Model: MINI Cooper S Hardtop Class: small car Pollution Score: 9 MPG: 28 Cylinders: 4
+Model: MINI Cooper S Hardtop Class: small car Pollution Score: 9 MPG: 26 Cylinders: 4
+Model: SUBARU Crosstrek Class: small SUV Pollution Score: 9 MPG: 29 Cylinders: 4
+Model: SUBARU Crosstrek Class: small SUV Pollution Score: 9 MPG: 26 Cylinders: 4
+Model: SUBARU Forester Class: small SUV Pollution Score: 9 MPG: 24 Cylinders: 4
+Model: SUBARU Forester Class: small SUV Pollution Score: 9 MPG: 28 Cylinders: 4
+Model: SUBARU Legacy Class: midsize car Pollution Score: 9 MPG: 29 Cylinders: 4
+Model: SUBARU Outback Class: small SUV Pollution Score: 9 MPG: 28 Cylinders: 4
+Model: TOYOTA Camry Hybrid LE Class: midsize car Pollution Score: 9 MPG: 40 Cylinders: 4
+Model: TOYOTA Camry Hybrid XLE/SE Class: midsize car Pollution Score: 9 MPG: 38 Cylinders: 4
+Model: TOYOTA Prius Class: midsize car Pollution Score: 9 MPG: 52 Cylinders: 4
+Model: TOYOTA Prius Class: midsize car Pollution Score: 9 MPG: 52 Cylinders: 4
+Model: TOYOTA Prius Eco Class: midsize car Pollution Score: 9 MPG: 56 Cylinders: 4
+Model: VOLKSWAGEN CC Class: small car Pollution Score: 9 MPG: 25 Cylinders: 4
+Model: VOLKSWAGEN GTI Class: small car Pollution Score: 9 MPG: 28 Cylinders: 4
+Model: VOLKSWAGEN GTI Class: small car Pollution Score: 9 MPG: 27 Cylinders: 4
+Model: VOLKSWAGEN Golf Class: small car Pollution Score: 9 MPG: 29 Cylinders: 4
+Model: VOLKSWAGEN Golf Class: small car Pollution Score: 9 MPG: 29 Cylinders: 4
+Model: VOLKSWAGEN Golf SportWagen Class: station wagon Pollution Score: 9 MPG: 29 Cylinders: 4
+Model: VOLKSWAGEN Golf SportWagen Class: station wagon Pollution Score: 9 MPG: 28 Cylinders: 4
+Model: VOLKSWAGEN Jetta Class: small car Pollution Score: 9 MPG: 27 Cylinders: 4
+Model: VOLKSWAGEN Jetta Class: small car Pollution Score: 9 MPG: 27 Cylinders: 4
+Model: VOLKSWAGEN Jetta Class: small car Pollution Score: 9 MPG: 29 Cylinders: 4
+Model: VOLKSWAGEN Passat Class: midsize car Pollution Score: 9 MPG: 27 Cylinders: 4
+Model: VOLVO XC 90 Class: standard SUV Pollution Score: 9 MPG: 25 Cylinders: 4
+Model: BMW i3 BEV Class: small car Pollution Score: 10 Fuel Type: Electricity
+Model: BMW i3 BEV Class: small car Pollution Score: 10 Fuel Type: Electricity
+Model: BMW i3 BEV (60Ah) Class: small car Pollution Score: 10 Fuel Type: Electricity
+Model: BMW i3 BEV (60Ah) Class: small car Pollution Score: 10 Fuel Type: Electricity
+Model: FIAT 500e Class: small car Pollution Score: 10 Fuel Type: Electricity
+Model: FIAT 500e Class: small car Pollution Score: 10 Fuel Type: Electricity
+Model: MERCEDES-BENZ B250e Class: midsize car Pollution Score: 10 Fuel Type: Electricity
+Model: MERCEDES-BENZ B250e Class: midsize car Pollution Score: 10 Fuel Type: Electricity
+Model: MITSUBISHI i-MiEV Class: small car Pollution Score: 10 Fuel Type: Electricity
+Model: MITSUBISHI i-MiEV Class: small car Pollution Score: 10 Fuel Type: Electricity
+Model: TOYOTA Mirai Class: small car Pollution Score: 10 Fuel Type: Hydrogen
+Model: TOYOTA Mirai Class: small car Pollution Score: 10 Fuel Type: Hydrogen
+
+Green Cars - Fuel Type:
+Model: BMW i3 BEV Fuel Type: Electricity
+Model: BMW i3 BEV Fuel Type: Electricity
+Model: BMW i3 BEV (60Ah) Fuel Type: Electricity
+Model: BMW i3 BEV (60Ah) Fuel Type: Electricity
+Model: FIAT 500e Fuel Type: Electricity
+Model: FIAT 500e Fuel Type: Electricity
+Model: MERCEDES-BENZ B250e Fuel Type: Electricity
+Model: MERCEDES-BENZ B250e Fuel Type: Electricity
+Model: MITSUBISHI i-MiEV Fuel Type: Electricity
+Model: MITSUBISHI i-MiEV Fuel Type: Electricity
+Model: TOYOTA Mirai Fuel Type: Hydrogen
+Model: TOYOTA Mirai Fuel Type: Hydrogen
+
+Average MPG All: 23.07
+
+Average MPG Subaru: 25.31
+
+Average MPG Toyota: 27.68
+
+Average MPG Ferrari: 15.40
+
+Vehicle Classes with 4-Cylinder Cars:
+	large car
+	midsize car
+	pickup
+	small SUV
+	small car
+	special purpose
+	standard SUV
+	station wagon
+Vehicle Classes with 6-Cylinder Cars:
+	large car
+	midsize car
+	minivan
+	pickup
+	small SUV
+	small car
+	special purpose
+	standard SUV
+	station wagon
+	van
+Small SUVs with MPG > 22:
+	CADILLAC XT5
+	JEEP Cherokee Trailhawk
+	JEEP Cherokee Trailhawk
+	JEEP Compass
+	JEEP Compass
+	JEEP Compass
+	JEEP Compass
+	JEEP Compass
+	JEEP Compass
+	JEEP Patriot
+	JEEP Patriot
+	JEEP Patriot
+	JEEP Patriot
+	JEEP Patriot
+	JEEP Patriot
+	SUBARU Forester
+	SUBARU Forester
+	SUBARU Outback
+	SUBARU Outback
+	ACURA MDX
+	ACURA MDX
+	ACURA MDX
+	ACURA MDX
+	ACURA MDX
+	ACURA MDX
+	ACURA RDX
+	ACURA RDX
+	ACURA RDX
+	ACURA RDX
+	BMW X3 sDrive28i
+	BMW X3 sDrive28i
+	BMW X3 xDrive28i
+	BMW X3 xDrive28i
+	BUICK Encore
+	BUICK Encore
+	BUICK Encore
+	BUICK Encore
+	BUICK Encore
+	BUICK Encore
+	BUICK Encore
+	BUICK Encore
+	BUICK Envision
+	BUICK Envision
+	BUICK Envision
+	BUICK Envision
+	BUICK Envision
+	BUICK Envision
+	CADILLAC XT5
+	CHEVROLET Equinox
+	CHEVROLET Equinox
+	CHEVROLET Equinox
+	CHEVROLET Equinox
+	CHEVROLET Trax
+	CHEVROLET Trax
+	CHEVROLET Trax
+	CHEVROLET Trax
+	FORD Escape
+	FORD Escape
+	FORD Escape
+	FORD Escape
+	FORD Escape
+	GMC Terrain
+	GMC Terrain
+	GMC Terrain
+	GMC Terrain
+	HYUNDAI Santa Fe Sport
+	HYUNDAI Santa Fe Sport
+	HYUNDAI Santa Fe Sport
+	HYUNDAI Santa Fe Sport
+	HYUNDAI Santa Fe Sport Ultimate
+	HYUNDAI Santa Fe Sport Ultimate
+	HYUNDAI Tuscon
+	HYUNDAI Tuscon
+	HYUNDAI Tuscon
+	HYUNDAI Tuscon
+	HYUNDAI Tuscon
+	HYUNDAI Tuscon
+	HYUNDAI Tuscon
+	HYUNDAI Tuscon
+	HYUNDAI Tuscon Eco
+	HYUNDAI Tuscon Eco
+	HYUNDAI Tuscon Eco
+	HYUNDAI Tuscon Eco
+	JEEP Cherokee
+	JEEP Cherokee
+	JEEP Cherokee
+	JEEP Cherokee
+	JEEP Cherokee
+	JEEP Cherokee
+	JEEP Cherokee
+	JEEP Cherokee
+	JEEP Compass
+	JEEP Compass
+	JEEP Compass
+	JEEP Compass
+	JEEP Compass
+	JEEP Compass
+	JEEP Patriot
+	JEEP Patriot
+	JEEP Patriot
+	JEEP Patriot
+	JEEP Patriot
+	JEEP Patriot
+	KIA Sorento
+	KIA Sorento
+	KIA Sorento
+	KIA Sorento
+	KIA Sportage
+	KIA Sportage
+	PORSCHE Macan
+	SUBARU Outback
+	SUBARU Outback
+	TOYOTA RAV4
+	TOYOTA RAV4
+	TOYOTA RAV4
+	TOYOTA RAV4
+	TOYOTA RAV4 LE/XLE
+	TOYOTA RAV4 LE/XLE
+	TOYOTA RAV4 Limited
+	TOYOTA RAV4 Limited
+	VOLKSWAGEN Tiguan
+	VOLKSWAGEN Tiguan
+	VOLVO XC 60
+	VOLVO XC 60
+	VOLVO XC 60
+	VOLVO XC 60
+	VOLVO XC 60
+	VOLVO XC 60
+	FORD Escape
+	FORD Escape
+	FORD Escape
+	FORD Escape
+	HYUNDAI Santa Fe Sport
+	HYUNDAI Santa Fe Sport
+	HYUNDAI Santa Fe Sport
+	HYUNDAI Santa Fe Sport
+	KIA Sorento
+	KIA Sorento
+	KIA Sorento
+	KIA Sorento
+	KIA Sportage
+	KIA Sportage
+	KIA Sportage
+	KIA Sportage
+	KIA Sportage FE
+	KIA Sportage FE
+	KIA Sportage FE
+	KIA Sportage FE
+	LEXUS RX 350
+	LEXUS RX 350
+	LEXUS RX 350
+	LEXUS RX 350
+	LINCOLN MKC
+	LINCOLN MKC
+	LINCOLN MKC
+	LINCOLN MKC
+	MERCEDES-BENZ GLA250 4Matic
+	MERCEDES-BENZ GLA250 4Matic
+	MERCEDES-BENZ GLC 300
+	MERCEDES-BENZ GLC 300
+	MERCEDES-BENZ GLC 300 4Matic
+	MERCEDES-BENZ GLC 300 4Matic
+	NISSAN Pathfinder
+	NISSAN Pathfinder
+	NISSAN Pathfinder
+	NISSAN Pathfinder
+	SUBARU Crosstrek
+	SUBARU Crosstrek
+	SUBARU Forester
+	SUBARU Forester
+	SUBARU Outback
+	KIA Sportage
+	KIA Sportage
+	KIA Sportage
+	KIA Sportage
+	KIA Sportage FE
+	KIA Sportage FE
+	KIA Sportage FE
+	KIA Sportage FE
+	LAND ROVER Discovery Sport
+	LAND ROVER Range Rover Evoque
+	LAND ROVER Range Rover Evoque Cabriolet
+	TOYOTA RAV4 Hybrid
+	TOYOTA RAV4 Hybrid
+	JEEP Cherokee
+	JEEP Cherokee
+	LAND ROVER Discovery Sport
+	LAND ROVER Range Rover Evoque
+	LAND ROVER Range Rover Evoque Cabriolet
+	SUBARU Crosstrek
+	SUBARU Crosstrek
+	SUBARU Forester
+	SUBARU Forester
+	SUBARU Outback
+Small Cars with MPG > 35:
+	JAGUAR XE
+	JAGUAR XE
+	CHEVROLET Volt
+	CHEVROLET Volt
+	MAZDA 2
+	MAZDA 2
+	TOYOTA Yaris iA
+	TOYOTA Yaris iA
+	MITSUBISHI Mirage
+	MITSUBISHI Mirage
+	MITSUBISHI Mirage
+	MITSUBISHI Mirage
+	MITSUBISHI Mirage G4
+	MITSUBISHI Mirage G4
+	MITSUBISHI Mirage G4
+	MITSUBISHI Mirage G4
+	SMART ForTwo Convertible
+	SMART ForTwo Convertible
+	BMW i3 REx
+	CHEVROLET Volt
+	CHEVROLET Volt
+	LEXUS CT 200h
+	LEXUS CT 200h
+	BMW i3 REx
