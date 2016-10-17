@@ -50,7 +50,7 @@ For full credit, your solution **must** use the following design elements.
   - Print "Small SUVs with MPG > 22:" followed by a newline followed by the result of calling `findModelsByClassAndMpg("small SUV", 22)` on the `CarList`. For each item in the list returned, print a tab followed by the item followed by a newline.
   - Print "Small Cars with MPG > 35:" followed by a newline followed by the result of calling `findModelsByClassAndMpg("small car", 35)` on the `CarList`. For each item in the list returned, print a tab followed by the item followed by a newline.
 11. Your output must **exactly** match the following: [p3output.txt](p3output.txt) All spacing, indentation, and ordering must exactly match the result.
-12. You *may* use classes other than those specified.
+12. You *may* implement classes in addition to those specified.
 
 
 ### Submission Requirements
