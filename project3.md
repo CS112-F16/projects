@@ -28,7 +28,7 @@ For full credit, your solution **must** use the following design elements.
 7. You must have a `CarList` that maintains a *sorted array* of `Car` objects. Use the `compareTo` method to sort `Car` objects.
 8. **You may not use `ArrayList` for *any* portion of this program.**
 9. `CarList` will have, at minimum, the following methods. You may add additional helper methods as appropriate.
-  - `addCar` - this method takes as input a `Car` and inserts it into the array in sorted order. If the array is full it will be resized to accommodate a new item.
+  - `addCar` - this method takes as input a `Car` and inserts it into the array *in sorted order*. If the array is full it will be resized to accommodate a new item. 
   - `toString` - returns a `String` representation of the entire database. The representation of a `GasCar` will look as follows: Model: VOLVO XC 90 Class: standard SUV Pollution Score: 9 MPG: 25 Cylinders: 4 The representation of a `GreenCar` will look as follows: Model: FIAT 500e Class: small car Pollution Score: 10 Fuel Type: Electricity
   - `toStringGreenCars` - returns a `String` representation of the `GreenCar` objects in the list where the representation for each `Car` is of the following format: Model: BMW i3 BEV Fuel Type: Electricity. Note, the format for this method is different than that of the `toString` method.
   - `avgMpg` - takes no parameters and returns the average MPG across all `GasCar` objects.
