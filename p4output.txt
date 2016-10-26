@@ -1,0 +1,19 @@
+rioja:project4 srollins$ java JavaClassAnalyzer /Users/srollins/teaching/cs112/code/ClassExamplesWeek1
+Valid Classes - Total: 4
+Class: GoodbyeWorld [/Users/srollins/teaching/cs112/code/ClassExamplesWeek1/GoodbyeWorld.java]
+       SLOC: 11
+       SLOC (excluding comments): 7
+Class: HelloWorld [/Users/srollins/teaching/cs112/code/ClassExamplesWeek1/HelloWorld.java]
+       SLOC: 11
+       SLOC (excluding comments): 7
+Class: CoinValue [/Users/srollins/teaching/cs112/code/ClassExamplesWeek1/CoinValue.java]
+       SLOC: 34
+       SLOC (excluding comments): 29
+Class: GradeCalculator [/Users/srollins/teaching/cs112/code/ClassExamplesWeek1/GradeCalculator.java]
+       SLOC: 78
+       SLOC (excluding comments): 61
+Total SLOC: 134
+Total SLOC (excluding comments): 104
+Invalid Classes:
+/Users/srollins/teaching/cs112/code/ClassExamplesWeek1/AnotherHelloWorld.java
+
