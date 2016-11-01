@@ -55,7 +55,7 @@ For full credit, your solution **must** use the following design elements.
 
 ### Submission Requirements
 
-1. For this assignment, you will submit all Java files you implemented for this program. Your `main` method **must** be in a file `CarDBDriver.java`. You must also submit `Car.java`, `GreenCar.java`, and `GasCar.java`. It is expected you will have at least one additional Java file.
+1. For this assignment, you will submit all Java files you implemented for this program. Your `main` method **must** be in a file `CarDBDriver.java`. You must also submit `Car.java`, `CarList.java``GreenCar.java`, and `GasCar.java`. It is expected you will have at least one additional Java file.
  
 2. Make sure your code follows all requirements in the [Style Guidelines](https://github.com/CS112-F16/notes/blob/master/style.md).
 
